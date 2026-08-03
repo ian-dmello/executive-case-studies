@@ -1,101 +1,65 @@
-# Enterprise Risk, Strategy & Value Creation for a Digital Technology Subsidiary
+# Enterprise Governance, Strategy & Value Creation for a Digital Technology Subsidiary
 
-> **Industry:** Telecommunications  
-> **Region:** Middle East  
-> **Client:** Leading Telecommunications Group *(Anonymised)*  
-> **Role:** Internal Consulting / Governance, Risk & Strategy
+> **Industry:** Telecommunications
+>
+> **Region:** Middle East
+>
+> **Organisation:** Leading Telecommunications Group *(Anonymised)*
+>
+> **Engagement Type:** Governance, Strategy, Enterprise Risk & Value Creation
 
 ---
 
 # Executive Summary
 
-This case study presents a consulting engagement undertaken for the digital technology subsidiary of a leading Middle Eastern telecommunications group.
+I was seconded to the Internal Audit function of a rapidly growing digital technology subsidiary within a leading Middle Eastern telecommunications group.
 
-The engagement extended beyond traditional assurance activities and focused on strengthening enterprise governance, financial reporting, strategic decision-making, enterprise risk management, cyber security governance and value creation.
+The engagement extended well beyond traditional assurance activities and involved strengthening corporate governance, enterprise risk management, financial reporting, strategic decision-making and enterprise-wide value creation initiatives.
 
-Working closely with executive management, the assignment involved reviewing governance frameworks, evaluating strategic initiatives, identifying transaction risks, improving financial reporting processes and assessing enterprise-wide cost optimisation initiatives.
+Working directly with senior leadership, I evaluated strategic investments, reviewed governance over digital operations, developed enterprise risk frameworks, assessed cyber security risks and independently reviewed the quality of work performed by external advisory firms supporting major strategic initiatives.
+
+The engagement combined governance, strategy, finance, technology and operational excellence to support better executive decision-making.
 
 ---
 
-# Business Context
+# Client Situation
 
-The organisation was undergoing rapid expansion into digital products and technology services.
+The organisation was expanding rapidly into digital products and technology-enabled services while simultaneously pursuing strategic investments and operational transformation initiatives.
 
-As the business expanded, management required greater assurance over:
+Executive management required greater visibility over:
 
-- Financial reporting
-- Enterprise risk management
+- Enterprise risks
 - Strategic investments
-- Cyber security governance
-- Product development governance
+- Financial reporting
+- Technology governance
+- Cyber security
 - Operational efficiency
-- Group-wide value creation
+- Sustainable value creation
+
+At the same time, multiple external consulting firms were supporting major initiatives, requiring independent evaluation of methodologies, control frameworks and strategic recommendations.
 
 ---
 
-# Objectives
+# Scope of Engagement
 
-The engagement aimed to:
+The engagement covered six strategic workstreams:
 
-- Strengthen governance across business functions.
-- Improve enterprise risk visibility.
-- Enhance IFRS financial reporting.
-- Support executive decision-making.
-- Evaluate strategic investments.
-- Identify opportunities for sustainable value creation.
-- Review enterprise-wide cost optimisation initiatives.
-
----
-
-# Key Engagements
-
-This case study is organised into the following sections:
-
-## 1. Financial Reporting & IFRS Governance
-
-*(To be completed)*
+1. Financial Reporting Governance
+2. Enterprise Risk Management
+3. Cyber Security Governance
+4. Strategic Transaction Risk Review
+5. Cost Optimisation & Value Creation
+6. Independent Review of External Advisory Engagements
 
 ---
 
-## 2. Enterprise Risk Management
+# Business Outcomes
 
-*(To be completed)*
+The engagement contributed towards:
 
----
-
-## 3. Cyber Security Governance
-
-*(To be completed)*
-
----
-
-## 4. Strategic Transaction Risk Review
-
-*(To be completed)*
-
----
-
-## 5. Cost Optimisation & Value Creation
-
-*(To be completed)*
-
----
-
-## 6. Quality Review of External Consulting Engagements
-
-*(To be completed)*
-
----
-
-# Skills Demonstrated
-
-- Corporate Governance
-- Enterprise Risk Management
-- Business Strategy
-- Cost Optimisation
-- Transaction Risk Assessment
-- Financial Reporting (IFRS)
-- Cyber Security Governance
-- Executive Stakeholder Management
-- Strategic Analysis
-- Value Creation
+- Strengthening governance over financial reporting.
+- Establishing enterprise risk registers across critical business functions.
+- Improving executive visibility of strategic and operational risks.
+- Identifying significant risks associated with a major acquisition.
+- Enhancing enterprise-wide cost optimisation initiatives.
+- Improving the quality of governance documentation and risk assessments prepared by external advisors.
