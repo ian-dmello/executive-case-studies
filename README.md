@@ -35,13 +35,10 @@ This repository will include executive-level case studies covering:
 
 | No | Case Study | Status |
 |----|------------|--------|
-| 1 | Enterprise Risk, Strategy & Value Creation | 🚧 In Progress |
-| 2 | Business Process Transformation | Planned |
-| 3 | Fraud & Forensic Analytics | Planned |
-| 4 | Corporate Governance Transformation | Planned |
-| 5 | Enterprise Risk Management | Planned |
-| 6 | Data Analytics for Executive Decision Making | Planned |
-| 7 | AI in Governance & Risk | Planned |
+| ⭐ | [Enterprise Governance Transformation](./teyseer-enterprise-governance-transformation) | ✅ Complete |
+| 2 | [Enterprise Risk, Strategy & Value Creation](./telecom-governance-strategy-value-creation) | 🚧 In Progress |
+| 3 | [Governance & Business Transformation](./real-estate-governance-business-transformation) | 🚧 In Progress |
+| 4 | Manufacturing Operational Excellence | 📝 Planned |
 
 ---
 
