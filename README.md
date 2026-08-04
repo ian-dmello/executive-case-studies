@@ -4,7 +4,7 @@
 
 Welcome to my Executive Case Studies portfolio.
 
-This repository showcases selected consulting engagements and business transformation initiatives from my professional career. The objective is to demonstrate how governance, strategy, analytics and technology can be applied to solve complex business problems and create measurable value.
+This repository showcases executive case studies covering governance, enterprise risk, business transformation, strategy, analytics and AI across multiple industries. The objective is to demonstrate how governance, strategy, analytics and technology can be applied to solve complex business problems and create measurable value.
 
 To maintain client confidentiality, all case studies are anonymized. Organisation names, sensitive commercial information and confidential data have been removed or modified while preserving the underlying business challenges, methodologies and insights.
 
