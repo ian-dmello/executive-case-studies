@@ -1,6 +1,6 @@
 # Corporate Governance & SOX Transformation
 ## Vedanta Group (Sterlite Industries, Hindustan Zinc, BALCO & Sterlite Energy)
-### KPMG India | 2008–2010
+### KPMG India | 2007–2010
 
 ---
 
