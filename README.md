@@ -41,7 +41,7 @@ A curated portfolio of consulting engagements delivered across Big Four consulti
 | **2024** | Ecovis (On Contract) | Senior Advisor – GRC | [Enterprise Risk, Strategy & Value Creation](telecom-governance-strategy-value-creation/) | Enterprise Risk • Strategy | ✅ Complete |
 | **2019–2023** | Teyseer Group | Group Internal Audit Manager | [Enterprise Governance Transformation](teyseer-enterprise-governance-transformation/) | Governance Transformation | ✅ Complete |
 | **2007–2010** | KPMG India | Senior Consultant | [Corporate Governance & SOX Transformation](corporate-governance-sox-transformation/) | SOX • Corporate Governance | ✅ Complete |
-| **2007–2010** | KPMG India | Senior Consultant | [Enterprise Risk Management Framework Design](enterprise-risk-management-framework-design/) | Enterprise Risk Management | ✅ Complete |
+| **2007–2010** | KPMG India | Senior Consultant | [Enterprise Risk Management Framework Design](enterprise-risk-management-framework/) | Enterprise Risk Management | ✅ Complete |
 ---
 
 # About this Portfolio
