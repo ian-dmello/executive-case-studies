@@ -38,7 +38,7 @@ This repository will include executive-level case studies covering:
 | ⭐ | [Enterprise Governance Transformation](./teyseer-enterprise-governance-transformation) | ✅ Complete |
 | 2 | [Enterprise Risk, Strategy & Value Creation](./telecom-governance-strategy-value-creation) | 🚧 In Progress |
 | 3 | [Governance & Business Transformation](./real-estate-governance-business-transformation) | 🚧 In Progress |
-| 4 | Manufacturing Operational Excellence | 📝 Planned |
+| 4 | [Manufacturing Operational Excellence](manufacturing-operational-excellence/)| 🚧 In Progress |
 
 ---
 
