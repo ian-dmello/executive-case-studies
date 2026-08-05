@@ -34,14 +34,13 @@ This repository will include executive-level case studies covering:
 # Case Studies
 A curated portfolio of consulting engagements delivered across Big Four consulting, multinational organizations, and advisory firms. These case studies demonstrate experience in corporate governance, enterprise risk management, SOX compliance, internal audit, operational excellence, and business transformation.
 
-| Year | Client / Employer | Role | Case Study | Primary Capability | Status |
-|------|-------------------|------|------------|--------------------|:------:|
-| **2025** | BDO (On Contract) | Associate Director – Business Advisory Services | [Governance & Business Transformation](real-estate-governance-business-transformation/) | Internal Audit • Business Transformation | ✅ Complete |
-| **2025** | BDO (On Contract) | Associate Director – Business Advisory Services | [Manufacturing Operational Excellence](manufacturing-operational-excellence/) | Operational Excellence | ✅ Complete |
-| **2024** | Ecovis (On Contract) | Senior Advisor – GRC | [Enterprise Risk, Strategy & Value Creation](telecom-governance-strategy-value-creation/) | Enterprise Risk • Strategy | ✅ Complete |
-| **2019–2023** | Teyseer Group | Group Internal Audit Manager | [Enterprise Governance Transformation](teyseer-enterprise-governance-transformation/) | Governance Transformation | ✅ Complete |
-| **2007–2010** | KPMG India | Senior Consultant | [Corporate Governance & SOX Transformation](corporate-governance-sox-transformation/) | SOX • Corporate Governance | ✅ Complete |
-| **2007–2010** | KPMG India | Senior Consultant | [Enterprise Risk Management Framework Design](enterprise-risk-management-framework/) | Enterprise Risk Management | ✅ Complete |
+| 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | Governance & Business Transformation | Internal Audit • Business Transformation | ✅ Complete |
+| 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | Manufacturing Operational Excellence | Operational Excellence | ✅ Complete |
+| 2024 | Ecovis (On Contract) | Senior Advisor – GRC | Enterprise Risk, Strategy & Value Creation | Enterprise Risk • Strategy | ✅ Complete |
+| 2019–2023 | Teyseer Group | Group Internal Audit Manager | Enterprise Governance Transformation | Governance Transformation | ✅ Complete |
+| 2012–2014 | Dubai Investments PJSC | Assistant Manager – Internal Audit | Enterprise Internal Audit Across a Diversified Conglomerate | Internal Audit • Fraud Detection • Governance | ✅ Complete |
+| 2007–2010 | KPMG India | Senior Consultant | Corporate Governance & SOX Transformation | SOX • Corporate Governance | ✅ Complete |
+| 2007–2010 | KPMG India | Senior Consultant | Enterprise Risk Management Framework Design | Enterprise Risk Management | ✅ Complete |
 ---
 
 # About this Portfolio
