@@ -45,7 +45,7 @@ A curated portfolio of consulting engagements demonstrating governance, strategy
 | 2024 | Ecovis (On Contract) | Senior Advisor – GRC | [Enterprise Risk, Strategy & Value Creation](telecom-governance-strategy-value-creation/) | Enterprise Risk • Strategy | ✅ Complete |
 | 2019–2023 | Teyseer Group | Group Internal Audit Manager | [Enterprise Governance Transformation](teyseer-enterprise-governance-transformation/) | Governance Transformation | ✅ Complete |
 | 2012–2014 | Dubai Investments PJSC | Assistant Manager – Internal Audit | [Enterprise Internal Audit Across a Diversified Conglomerate](dubai-investments-enterprise-audit/) | Internal Audit • Fraud Detection • Governance | ✅ Complete |
-| 2010–2012 | Department of Transport (DoT) & TransAD | Assistant Manager – Audit Lead | [Enterprise Risk Assessment & Three-Year Risk-Based Internal Audit Strategy](department-of-transport-risk-based-audit-strategy/) | Risk-Based Internal Audit • Enterprise Risk Assessment | ✅ Complete |
+| 2010–2012 | Protiviti Middle East | Assistant Manager – Audit Lead | [Department of Transport (DoT) & TransAD – Enterprise Risk Assessment & Three-Year Risk-Based Internal Audit Strategy](department-of-transport-risk-based-audit-strategy/) | Risk-Based Internal Audit • Enterprise Risk Assessment | ✅ Complete |
 | 2007–2010 | KPMG India | Senior Consultant | [Corporate Governance & SOX Transformation](corporate-governance-sox-transformation/) | SOX • Corporate Governance | ✅ Complete |
 | 2007–2010 | KPMG India | Senior Consultant | [Enterprise Risk Management Framework Design](enterprise-risk-management-framework/) | Enterprise Risk Management | ✅ Complete |
 
