@@ -34,6 +34,10 @@ This repository will include executive-level case studies covering:
 # Case Studies
 A curated portfolio of consulting engagements delivered across Big Four consulting, multinational organizations, and advisory firms. These case studies demonstrate experience in corporate governance, enterprise risk management, SOX compliance, internal audit, operational excellence, and business transformation.
 
+## Portfolio
+
+| Year | Client / Employer | Role | Case Study | Primary Capability | Status |
+|------|-------------------|------|------------|--------------------|--------|
 | 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | Governance & Business Transformation | Internal Audit • Business Transformation | ✅ Complete |
 | 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | Manufacturing Operational Excellence | Operational Excellence | ✅ Complete |
 | 2024 | Ecovis (On Contract) | Senior Advisor – GRC | Enterprise Risk, Strategy & Value Creation | Enterprise Risk • Strategy | ✅ Complete |
