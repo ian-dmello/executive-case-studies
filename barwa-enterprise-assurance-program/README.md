@@ -3,249 +3,426 @@
 **Client:** Barwa Real Estate Company (Q.P.S.C.), Qatar  
 **Employer:** Protiviti Middle East  
 **Role:** Project Manager – Enterprise Assurance Program  
-**Duration:** July 2014 – January 2016 (Managing the 2014–15 and 2015–16 Internal Audit Programmes)
+**Duration:** July 2014 – January 2016 (Managing the 2014–15 and 2015–16 Internal Audit Co-Sourcing Programmes)
 
 ---
 
 # Executive Summary
 
-As Project Manager from Protiviti Middle East, I was seconded to **Barwa Real Estate Company (Q.P.S.C.)**, one of Qatar's leading listed real estate and infrastructure development groups, to manage the delivery of its outsourced Enterprise Internal Audit Programme.
+As Project Manager from Protiviti Middle East, I was seconded to **Barwa Real Estate Company (Q.P.S.C.)**, one of Qatar's leading listed real estate developers, to lead the delivery of the Group's **Enterprise Internal Audit Co-Sourcing Programme** over two consecutive annual audit cycles.
 
-The engagement represented one of Protiviti Middle East's flagship consulting assignments in Qatar. My responsibility extended far beyond audit execution. I was accountable for programme delivery, engagement quality, stakeholder management, executive reporting, resource planning, mentoring consultants, and ensuring successful completion of the approved Internal Audit Plan.
+The engagement represented one of Protiviti Middle East's flagship consulting assignments in Qatar. Operating as an extension of Barwa's Group Internal Audit Department, the Protiviti team provided independent assurance across finance, operations, construction projects, information technology, investments and corporate support functions through a co-sourcing model. The scope and responsibilities of the engagement were formally defined under the Internal Audit Co-Sourcing contracts awarded to Protiviti for the 2014 and 2015 audit programmes. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
-Across two consecutive audit cycles, I led the delivery and quality assurance of approximately **24 audit engagements** covering finance, operational, corporate, project and information technology audits. Every report was reviewed, finalised and presented to the Chief Internal Auditor before submission to executive management and the Audit Committee.
+As the on-site Project Manager, I was responsible for managing programme delivery, leading multidisciplinary audit teams, reviewing and finalising audit reports, maintaining quality assurance standards, mentoring consultants, managing stakeholder relationships and ensuring successful execution of the approved annual Internal Audit Plan.
 
-The successful execution of the engagement contributed directly to Protiviti retaining one of its most prestigious consulting clients despite intense competition from Big Four firms. Following the successful completion of the first audit cycle, the original engagement value increased through a variation order. Protiviti was subsequently awarded the following year's contract valued at approximately **QR 1.5 million**, representing almost double the original engagement value.
+Across the two audit cycles, I managed the delivery and quality assurance of approximately **24 audit engagements** covering finance, operational, corporate, project and information technology audits. Every report was reviewed and finalised before presentation to the Chief Internal Auditor and subsequent submission to executive management and the Audit Committee.
+
+The successful delivery of the engagement contributed to Protiviti retaining one of its most prestigious listed clients. The engagement expanded from an initial **250 man-days** in 2014 to **450 man-days** in 2015, reflecting the client's continued confidence in the quality of delivery and the value provided by the engagement team. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
 
 ---
 
 # Business Context
 
-**Barwa Real Estate Company (Q.P.S.C.)** is one of Qatar's leading listed real estate and infrastructure development companies and is listed on the **Qatar Stock Exchange (QSE)**.
+**Barwa Real Estate Company (Q.P.S.C.)** is one of Qatar's leading listed real estate developers and investment groups, listed on the Qatar Stock Exchange (QSE).
 
-Today, the Group develops, owns and manages one of Qatar's largest portfolios of residential, commercial, retail, hospitality, logistics and mixed-use developments through a diversified group of subsidiaries and associates. The company plays a significant role in supporting Qatar's long-term urban development strategy and **Qatar National Vision 2030**.
+Today, the Group owns, develops and manages one of Qatar's largest portfolios of residential communities, commercial properties, industrial developments, logistics facilities, hospitality assets and mixed-use developments through a diversified portfolio of subsidiaries and associates.
 
-**During my engagement (2014–2016)**, Barwa was expanding rapidly through major real estate developments and investments. The scale and complexity of its operations required an outsourced Internal Audit function capable of delivering independent assurance across multiple business units while maintaining high standards of governance and risk management.
+**During this engagement (2014–2016)**, Barwa was executing a significant portfolio of real estate developments while continuing to strengthen its governance, risk management and internal control environment.
 
-Protiviti Middle East was appointed to execute the approved Internal Audit Programme, and I served as the on-site Project Manager responsible for successful programme delivery.
+To supplement its in-house Internal Audit Department, Barwa adopted a co-sourcing model whereby Protiviti Middle East provided experienced audit professionals and project management support to assist in executing the approved annual Internal Audit Plan.
+
+The engagement covered multiple business units and functions including:
+
+- Real Estate Development
+- Construction Projects
+- Finance & Investments
+- Corporate Functions
+- Information Technology
+- General Services
+
+The objective was to provide independent assurance over governance, risk management and internal controls while identifying opportunities to improve operational effectiveness and business performance.
 
 ---
 
 # Executive Challenge
 
-The engagement required balancing several strategic priorities simultaneously.
+Managing a co-sourced Internal Audit Programme for one of Qatar's largest listed organisations required balancing multiple strategic priorities simultaneously.
 
-These included:
+The engagement required:
 
-- Delivering the approved annual Internal Audit Plan.
-- Maintaining consistent quality across multiple audit disciplines.
-- Leading a multidisciplinary consulting team.
-- Managing engagement timelines and budgets.
-- Maintaining executive stakeholder confidence.
-- Delivering reports suitable for executive management and the Audit Committee.
-- Creating measurable value for both Barwa and Protiviti.
+- Delivering the approved annual Internal Audit Plan within agreed timelines.
+- Managing multiple concurrent audit engagements across diverse business functions.
+- Maintaining consistent quality across finance, operational, project and IT audits.
+- Coordinating effectively with Barwa's Group Internal Audit Department.
+- Producing executive-quality reports suitable for senior management and the Audit Committee.
+- Providing practical recommendations that strengthened governance, internal controls and operational effectiveness.
+- Maintaining strong client relationships throughout the engagement.
 
-Given the strategic importance of the client, successful delivery was critical not only for Barwa's governance objectives but also for Protiviti's reputation within Qatar's consulting market.
+Beyond technical audit execution, the engagement also carried significant commercial importance for Protiviti, as Barwa represented one of the firm's flagship consulting clients within Qatar.
 
 ---
 
 # Engagement Leadership Responsibilities
 
-As Project Manager, I acted as the primary on-site representative of Protiviti Middle East.
+As Project Manager representing Protiviti Middle East, I served as the primary on-site engagement leader responsible for successful delivery of the Enterprise Internal Audit Co-Sourcing Programme.
 
 My responsibilities included:
 
-- Managing execution of the annual Enterprise Internal Audit Programme.
-- Leading a multidisciplinary consulting team.
+- Managing execution of the approved annual Internal Audit Plan.
+- Leading multidisciplinary consulting teams.
+- Planning audit resources and engagement schedules.
 - Personally executing complex finance and governance audits.
 - Reviewing and approving audit reports prepared by consultants.
-- Performing quality assurance reviews across Finance, Operational, Corporate, Project and IT audits.
-- Coaching and mentoring consultants.
-- Presenting completed reports to the Chief Internal Auditor.
-- Coordinating management responses.
-- Monitoring project budgets and delivery timelines.
+- Performing quality assurance reviews across finance, operational, corporate, project and information technology audits.
+- Ensuring compliance with the International Standards for the Professional Practice of Internal Auditing (IIA Standards).
+- Coaching and mentoring consultants throughout the engagement.
+- Presenting completed audit reports to the Chief Internal Auditor.
+- Coordinating management responses before submission to executive management and the Audit Committee.
+- Monitoring engagement budgets, resource utilisation and delivery timelines.
 - Acting as the principal liaison between Protiviti and Barwa's Internal Audit Department.
 
----
+In addition to leading my own assignments, I reviewed and finalised audit reports prepared by other consultants to ensure consistency, technical accuracy, practical recommendations and executive presentation quality across the entire engagement.
 
 # Enterprise Assurance Portfolio
 
-Over two consecutive audit cycles, I managed approximately **24 audit engagements**, including:
+Across the **2014–15** and **2015–16** Internal Audit Programmes, I managed the execution and quality assurance of approximately **24 enterprise audit engagements** covering Barwa Group's major business functions.
+
+The audit portfolio included:
 
 - Financial Audits
 - Operational Audits
-- Corporate Audits
-- Information Technology Audits
+- Corporate Governance Reviews
 - Construction & Project Audits
-- Governance Reviews
+- Information Technology Audits
 - Internal Control Reviews
 - IFRS Compliance Reviews
+- Advisory Assignments
 
-The portfolio covered multiple business units, subsidiaries and corporate support functions across Barwa Group.
+The assignments covered multiple subsidiaries, strategic business units and corporate support functions across Barwa Group.
+
+The engagement required balancing technical audit execution with programme management responsibilities, ensuring that multiple concurrent audits progressed according to the approved Internal Audit Plan while maintaining consistent quality standards across every engagement.
 
 ---
 
 # Engagement Delivery Framework
 
-## Risk-Based Delivery
+The Internal Audit Programme followed a structured **risk-based assurance methodology** aligned with the International Standards for the Professional Practice of Internal Auditing (IIA Standards).
 
-The annual Internal Audit Programme was executed using a risk-based approach, ensuring that resources were focused on the areas of greatest financial, operational and governance risk.
-
-Regular monitoring ensured completion of the approved audit plan within agreed timelines.
+Each engagement progressed through six stages.
 
 ---
 
-## Audit Execution
+## 1. Engagement Planning
+
+Each audit commenced with an understanding of:
+
+- Business objectives.
+- Strategic risks.
+- Regulatory requirements.
+- Internal control environment.
+- Prior audit observations.
+- Annual Audit Plan objectives.
+
+Detailed audit programmes and resource plans were prepared to ensure effective coverage of key risk areas.
+
+---
+
+## 2. Process Understanding
+
+The engagement team developed a comprehensive understanding of business operations through:
+
+- Executive interviews.
+- Process walkthroughs.
+- Policy reviews.
+- Delegation of Authority reviews.
+- Process mapping.
+- Identification of key risks and controls.
+
+This stage ensured that audit procedures focused on the areas presenting the greatest operational, financial and governance risks.
+
+---
+
+## 3. Risk & Control Assessment
+
+The audit team evaluated both the design and operating effectiveness of key controls.
+
+This included:
+
+- Control design assessments.
+- Identification of preventive and detective controls.
+- Evaluation of governance structures.
+- Root cause analysis.
+- Identification of process inefficiencies.
+- Assessment of compliance with internal policies and regulatory requirements.
+
+Rather than identifying isolated control weaknesses, the emphasis was placed on understanding how risks affected business performance and governance.
+
+---
+
+## 4. Audit Execution
+
+Fieldwork combined traditional internal auditing techniques with analytical review and business process evaluation.
 
 Audit procedures included:
 
-- Process walkthroughs
-- Internal control evaluations
-- Compliance testing
-- Substantive testing
-- Financial statement analysis
-- IFRS compliance reviews
-- Data analytics
-- Executive interviews
-- Root cause analysis
+- Process walkthroughs.
+- Compliance testing.
+- Substantive testing.
+- Financial statement analysis.
+- IFRS compliance reviews.
+- Data analytics.
+- Executive interviews.
+- Transaction testing.
+- Root cause analysis.
 
-The focus extended beyond identifying deficiencies to recommending practical improvements capable of strengthening governance and operational performance.
+The objective extended beyond identifying deficiencies to developing practical recommendations capable of improving governance, operational effectiveness and decision-making.
 
 ---
 
-## Enterprise Quality Assurance
+## 5. Quality Assurance
 
-One of my principal responsibilities was maintaining consistent quality across every engagement.
+One of my principal responsibilities throughout both audit programmes was ensuring consistent quality across every engagement.
 
-I reviewed audit reports prepared across:
+All reports prepared by the engagement team underwent comprehensive quality assurance before submission.
 
-- Finance Audits
-- Operational Audits
-- Corporate Audits
-- Project Audits
-- IT Audits
+The review focused on:
 
-Every report was reviewed for:
-
-- Technical accuracy
-- Adequacy of evidence
-- Professional standards
-- Risk assessment
-- Executive presentation
-- Practical recommendations
+- Technical accuracy.
+- Sufficiency of audit evidence.
+- Consistency with professional standards.
+- Risk assessment.
+- Clarity of observations.
+- Practicality of recommendations.
+- Executive presentation quality.
 
 Only after completing these reviews were reports presented to the Chief Internal Auditor.
 
----
-
-## Executive Stakeholder Management
-
-The engagement required continuous interaction with:
-
-- Chief Internal Auditor
-- Audit Managers
-- Department Heads
-- Senior Management
-- Process Owners
-
-Strong stakeholder engagement ensured timely closure of audit observations and practical implementation of recommendations.
+This process ensured consistency across finance, operational, project and IT audits irrespective of the engagement team executing the assignment.
 
 ---
 
-# Leadership Highlights
+## 6. Executive Reporting
 
-This engagement extended significantly beyond the execution of internal audits.
+Following completion of fieldwork and quality assurance reviews, audit reports were presented to the Chief Internal Auditor.
 
-As Project Manager, I was responsible for:
+The reporting approach focused on:
 
-- Leading a multidisciplinary consulting team.
-- Managing programme delivery.
-- Reviewing and approving every audit report.
-- Coaching consultants across multiple audit disciplines.
+- Clearly articulating business risks.
+- Explaining root causes.
+- Quantifying business impact wherever possible.
+- Providing practical recommendations.
+- Obtaining management responses.
+- Supporting effective Audit Committee reporting.
+
+The emphasis throughout was on enabling executive management to make informed governance and operational decisions rather than merely documenting control deficiencies.
+
+---
+
+# Executive Stakeholder Management
+
+The success of the engagement depended upon maintaining effective relationships across multiple stakeholder groups.
+
+Throughout the engagement I worked closely with:
+
+- Chief Internal Auditor.
+- Audit Managers.
+- Department Heads.
+- Executive Management.
+- Process Owners.
+- Project Management Teams.
+- Finance Leadership.
+- Information Technology Management.
+
+Strong stakeholder engagement facilitated:
+
+- Timely completion of audit assignments.
+- Agreement of management responses.
+- Practical implementation of recommendations.
+- Resolution of technical accounting and governance matters.
+- Consistent communication throughout the engagement lifecycle.
+
+---
+
+# Programme Governance
+
+As Project Manager, I monitored overall programme performance in addition to individual audit engagements.
+
+Programme governance responsibilities included:
+
+- Monitoring progress against the approved Internal Audit Plan.
+- Resource allocation across concurrent engagements.
+- Budget utilisation.
+- Audit quality metrics.
+- Timely completion of audit reports.
+- Resolution of engagement issues.
+- Coordination with Barwa Internal Audit management.
+- Reporting programme status to Protiviti leadership.
+
+The combination of structured programme governance, disciplined project management and consistent quality assurance enabled successful delivery of two consecutive enterprise-wide Internal Audit Programmes.
+
+---
+
+# Key Leadership Contributions
+
+The engagement extended significantly beyond technical audit execution.
+
+As the on-site Project Manager, I was responsible for:
+
+- Leading multidisciplinary consulting teams across multiple concurrent assignments.
+- Managing engagement planning, budgets and delivery schedules.
+- Reviewing and approving every audit report prior to submission.
+- Providing technical guidance and mentoring consultants.
 - Maintaining executive stakeholder relationships.
 - Representing Protiviti throughout the engagement.
-- Delivering a consistently high-quality service that strengthened the firm's reputation and resulted in significant contract growth.
+- Ensuring consistent application of audit methodology.
+- Maintaining delivery quality across finance, operational, project and IT audits.
 
----
+These responsibilities required balancing consulting leadership, programme management and technical excellence while ensuring successful delivery of one of Protiviti Middle East's flagship consulting engagements.
+
 
 # Business Outcomes
 
-The engagement delivered measurable value to both Barwa and Protiviti.
+The successful delivery of the Enterprise Internal Audit Co-Sourcing Programme generated measurable value for both **Barwa Real Estate Company** and **Protiviti Middle East**.
 
-For Barwa:
+## Outcomes for Barwa
 
-- Successful completion of two annual Internal Audit Programmes.
-- High-quality independent assurance across key business functions.
-- Strengthened governance and internal controls.
-- Practical recommendations supporting improved risk management.
+The engagement supported Barwa's Internal Audit Department in successfully delivering two consecutive Audit Committee-approved annual Internal Audit Programmes.
 
-For Protiviti:
+Key outcomes included:
 
-- Successful delivery of one of the firm's flagship consulting engagements in Qatar.
-- Strong client relationships resulting in repeat business.
-- Significant increase in engagement value over two consecutive years.
-- Enhanced market reputation through consistent delivery quality.
+- Successful completion of approximately **24 audit engagements** across finance, operations, construction projects, corporate functions and information technology.
+- Strengthened governance and internal control frameworks across multiple business units.
+- Identification of opportunities to improve operational efficiency, financial controls and risk management.
+- Delivery of practical, business-focused recommendations that supported executive decision-making.
+- Consistent, high-quality reporting for the Chief Internal Auditor, executive management and the Audit Committee.
+
+Beyond providing independent assurance, the engagement enhanced the Internal Audit Department's ability to deliver a comprehensive, risk-based assurance programme covering one of Qatar's largest listed real estate groups.
+
+---
+
+## Outcomes for Protiviti
+
+The engagement represented one of Protiviti Middle East's flagship Internal Audit Co-Sourcing assignments within Qatar.
+
+Successful delivery resulted in:
+
+- Completion of the initial **2014 Internal Audit Co-Sourcing Programme** comprising approximately **250 professional man-days**.
+- Expansion of the engagement through a variation order following successful delivery of the first programme.
+- Award of the subsequent **2015 Internal Audit Co-Sourcing Programme**, increasing the scope to approximately **450 professional man-days**, representing a significant expansion of the engagement. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+- Retention of one of Protiviti Middle East's most prestigious listed clients despite strong competition from leading international consulting firms.
+- Strengthened Protiviti's reputation as a trusted provider of enterprise assurance and governance advisory services within Qatar.
+
+The expansion of the engagement demonstrated the client's confidence in the quality of delivery, project management capability and value delivered by the on-site Protiviti team.
 
 ---
 
 # Commercial Impact
 
-The engagement generated measurable commercial value for Protiviti.
+From a consulting perspective, this engagement demonstrated how consistent delivery quality, technical excellence and effective stakeholder management contribute directly to long-term client relationships and business growth.
 
-The quality of delivery resulted in:
+The programme achieved measurable commercial outcomes:
 
-- Increase in the first year's engagement value from approximately **QR 750,000** to approximately **QR 1 million** through a variation order.
-- Award of the following year's Internal Audit Programme valued at approximately **QR 1.5 million**.
-- Retention of one of Protiviti Middle East's most prestigious listed clients despite intense competition from leading global consulting firms.
-- Positive recognition from the Chief Internal Auditor regarding engagement quality, leadership and delivery.
+- Successful execution of two consecutive enterprise-wide assurance programmes.
+- Significant expansion of engagement scope between the first and second audit cycles.
+- Continued confidence from Barwa's Internal Audit leadership in Protiviti's delivery capability.
+- Strengthened long-term client relationship with one of Qatar's leading listed organisations.
+- Enhanced visibility of Protiviti's Enterprise Risk and Internal Audit practice within the Qatar market.
+
+For me personally, the engagement provided invaluable experience in managing a large-scale consulting programme, balancing technical excellence with commercial awareness, stakeholder management and people leadership.
 
 ---
 
 # Client Recognition
 
-The Chief Internal Auditor recognised the contribution of the on-site Project Manager in successfully leading two consecutive Enterprise Internal Audit Programmes.
+The Chief Internal Auditor recognised the quality of the engagement delivered by the Protiviti team and acknowledged the contribution of the Project Manager in successfully leading the on-site engagement.
 
-Client feedback highlighted:
+The engagement was recognised for:
 
-- Strong engagement leadership.
-- High-quality audit reporting.
-- Effective mentoring of consultants.
-- Consistently professional delivery.
-- Significant contribution towards Protiviti securing repeat business.
+- Strong project leadership.
+- Consistently high-quality audit reporting.
+- Effective mentoring and supervision of consultants.
+- Timely delivery of the approved Internal Audit Plan.
+- Maintaining strong working relationships with Barwa management.
+- Supporting the successful renewal and expansion of the Internal Audit Co-Sourcing Programme.
+
+The successful renewal of the engagement reflected the client's confidence in the team's ability to consistently deliver high-quality assurance services.
 
 ---
 
 # Core Competencies Demonstrated
 
+## Consulting Leadership
+
+- Enterprise Assurance Programme Management
 - Consulting Engagement Leadership
-- Enterprise Assurance
-- Internal Audit Programme Management
-- Corporate Governance
-- Executive Stakeholder Management
-- Risk-Based Internal Auditing
-- Financial Controls
-- IFRS Compliance
-- Operational Auditing
-- IT Auditing
-- Project Auditing
-- Quality Assurance
 - Client Relationship Management
+- Stakeholder Management
 - Team Leadership
+- Project Management
+
+---
+
+## Governance & Risk
+
+- Corporate Governance
+- Enterprise Risk Management
+- Risk-Based Internal Auditing
+- Internal Control Evaluation
+- Governance Advisory
+
+---
+
+## Technical Expertise
+
+- Financial Auditing
+- Operational Auditing
+- Construction & Project Auditing
+- Information Technology Auditing
+- IFRS Compliance
+- Financial Controls
+- Quality Assurance
+
+---
+
+## Executive Skills
+
 - Executive Reporting
-- Consulting Practice Management
+- Audit Committee Reporting
+- Root Cause Analysis
+- Strategic Problem Solving
+- Executive Communication
+- Change Management
+- Coaching & Mentoring
 
 ---
 
 # Why This Engagement Matters
 
-This engagement represents one of the largest and most prestigious consulting assignments I managed during my career.
+This engagement represents one of the largest and most prestigious consulting assignments that I managed during my career.
 
-Rather than managing individual audits, I led the delivery of an enterprise-wide assurance programme for one of Qatar's leading listed organisations. The engagement required balancing technical excellence, leadership, stakeholder management, commercial awareness and consulting delivery while consistently exceeding client expectations.
+Rather than leading individual audits, I was responsible for managing an enterprise-wide Internal Audit Co-Sourcing Programme across one of Qatar's leading listed real estate groups.
 
-The successful execution of the programme strengthened Barwa's governance framework, enhanced Protiviti's reputation in the Qatar market and directly contributed to significant contract growth and long-term client retention.
+The role required balancing:
+
+- Consulting leadership.
+- Programme management.
+- Technical excellence.
+- Stakeholder management.
+- Resource planning.
+- Quality assurance.
+- Executive reporting.
+- Commercial awareness.
+
+Successfully delivering two consecutive annual programmes while maintaining consistent quality across multiple audit disciplines contributed to strengthening Barwa's governance framework, enhancing Protiviti's reputation in the Qatar market and supporting continued client confidence in the firm's enterprise assurance capabilities.
+
+The engagement demonstrated that high-quality assurance extends beyond identifying control weaknesses—it enables better governance, stronger decision-making and sustainable organisational performance.
 
 ---
 
-## Disclaimer
+# Disclaimer
 
-This case study has been prepared for professional portfolio purposes. Client-sensitive information has been anonymised where appropriate while preserving the consulting methodology, leadership responsibilities and business outcomes of the engagement.
+This case study has been prepared for professional portfolio purposes.
+
+Client-sensitive information has been anonymised where appropriate while preserving the consulting methodology, leadership responsibilities and business outcomes of the engagement.
+
+The case study reflects the Internal Audit Co-Sourcing engagements executed during the **2014–15** and **2015–16** audit programmes. References to Barwa Real Estate Company describe the organisation during the period of the engagement.
