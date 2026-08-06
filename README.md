@@ -38,8 +38,10 @@ A curated portfolio of consulting engagements demonstrating governance, strategy
 
 ## Portfolio
 
-| Year | Employer | Role | Engagement | Primary Capability | Status |
-|------|----------|------|------------|--------------------|--------|
+## Portfolio
+
+| Year | Client / Employer | Role | Case Study | Primary Capability | Status |
+|------|-------------------|------|------------|--------------------|--------|
 | 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | [Governance & Business Transformation](real-estate-governance-business-transformation/) | Internal Audit • Business Transformation | ✅ Complete |
 | 2025 | BDO (On Contract) | Associate Director – Business Advisory Services | [Manufacturing Operational Excellence](manufacturing-operational-excellence/) | Operational Excellence | ✅ Complete |
 | 2024 | Ecovis (On Contract) | Senior Advisor – GRC | [Enterprise Risk, Strategy & Value Creation](telecom-governance-strategy-value-creation/) | Enterprise Risk • Strategy | ✅ Complete |
@@ -53,10 +55,15 @@ A curated portfolio of consulting engagements demonstrating governance, strategy
 | 2018–2019 | Morison KSi Qatar | Director – Consulting Services | [School Investment Feasibility Review & Bank Assurance Engagement](school-investment-feasibility-review/) | Assurance • Financial Modelling | ✅ Complete |
 | 2017–2018 | Indian Institute of Management Ahmedabad | MBA Participant | [UK–India Green Growth Equity Fund: Infrastructure Investment Strategy & Policy Assessment](uk-india-green-growth-equity-fund/) | Public Policy • Infrastructure Strategy | ✅ Complete |
 | 2017–2018 | Indian Institute of Management Ahmedabad | MBA Participant | [Affordable Housing Sustainability & Cost Optimization Strategy](auda-affordable-housing-strategy/) | Public Sector Consulting • ESG | ✅ Complete |
-| 2012–2014 | Dubai Investments PJSC | Assistant Manager – Internal Audit | [Enterprise Internal Audit Across a Diversified Conglomerate](dubai-investments-enterprise-audit/) | Internal Audit • Fraud Detection • Governance | ✅ Complete |
-| 2010–2012 | Protiviti Middle East | Assistant Manager – Audit Lead | [Department of Transport (DoT) & TransAD – Enterprise Risk Assessment & Three-Year Risk-Based Internal Audit Strategy](department-of-transport-risk-based-audit-strategy/) | Risk-Based Internal Audit • Enterprise Risk Assessment | ✅ Complete |
+| 2016–2017 | Orbit Electronics & Communication | Finance Manager | [Financial Reporting Turnaround & Statutory Audit Review](financial-reporting-turnaround/) | Financial Reporting • Finance Transformation | ✅ Complete |
+| 2010–2012 | Protiviti Middle East (Client: Department of Transport & TransAD, Abu Dhabi) | Assistant Manager – Audit Lead | [Enterprise Risk Assessment & Three-Year Risk-Based Internal Audit Strategy](dot-transad-risk-based-audit-strategy/) | Risk-Based Internal Audit • Enterprise Risk Assessment | ✅ Complete |
 | 2007–2010 | KPMG India | Senior Consultant | [Corporate Governance & SOX Transformation](corporate-governance-sox-transformation/) | SOX • Corporate Governance | ✅ Complete |
 | 2007–2010 | KPMG India | Senior Consultant | [Enterprise Risk Management Framework Design](enterprise-risk-management-framework/) | Enterprise Risk Management | ✅ Complete |
+
+
+
+
+
 
 ---
 
