@@ -1,91 +1,93 @@
 # Indian Legal AI Assistant
 
-**Project Type:** AI Product Development | MSDS Capstone Project  
-**Institution:** Northwestern University – Master of Science in Data Science  
-**Domain:** Generative AI • Natural Language Processing • Legal Technology • Retrieval-Augmented Generation (RAG)
+> **An AI-powered legal assistant that simplifies Indian laws and judicial decisions using Natural Language Processing (NLP), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).**
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-red)
+![NLP](https://img.shields.io/badge/NLP-Transformers-green)
+![RAG](https://img.shields.io/badge/RAG-Enabled-orange)
+![Status](https://img.shields.io/badge/Status-Capstone%20Project-success)
 
 ---
 
 # Executive Summary
 
-The Indian Legal AI Assistant was developed as the Capstone Project for the Master of Science in Data Science (MSDS) programme at Northwestern University.
+The **Indian Legal AI Assistant** was developed as the Capstone Project for the **Master of Science in Data Science (MSDS)** program at **Northwestern University**.
 
-The project was conceived to improve access to Indian laws by leveraging Artificial Intelligence and Natural Language Processing (NLP). Rather than expecting citizens to interpret complex legal language, the solution enables users to ask questions in plain language and receive simplified explanations of relevant statutory provisions and judicial decisions.
+The project demonstrates how Artificial Intelligence can simplify complex legal information and improve public access to Indian laws. Rather than expecting citizens to interpret lengthy legislation written in legal language, the solution enables users to ask legal questions in natural language and receive simplified explanations supported by relevant statutory provisions and judicial precedents.
 
-The application combines semantic search, Large Language Models (LLMs), document retrieval and multilingual translation to make Indian laws more understandable and accessible.
+The application combines **Natural Language Processing (NLP)**, **Semantic Search**, **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)** to deliver legally relevant and user-friendly responses.
 
-As part of the project team, I contributed to the design of the solution and **presented approximately 50% of the final Capstone presentation**, explaining the project vision, AI architecture, technical approach and expected business and social impact.
+The proposed solution also supports multilingual responses, improving accessibility across India's diverse linguistic population.
+
+As part of the Capstone team, I contributed to solution design, AI architecture discussions, model evaluation and project documentation. I also presented approximately **50% of the final Capstone presentation**, covering the project vision, technical architecture, implementation methodology and expected business and social impact.
 
 ---
 
 # Vision
 
-**The common citizen should understand the rights, duties and responsibilities established under the Constitution and laws of India.**
+**To empower every citizen to understand the rights, duties and responsibilities established under the Constitution and laws of India.**
 
 ---
 
 # Mission
 
-To simplify Indian laws and judicial decisions into language that is:
-
-- Easy to understand.
-- Legally meaningful.
-- Accessible to non-lawyers.
-- Available in multiple Indian languages.
+To leverage Artificial Intelligence to make Indian laws understandable, searchable and accessible through simplified explanations, relevant judicial decisions and multilingual support.
 
 ---
 
 # Business Problem
 
-Indian legislation is typically written using complex legal terminology.
+Indian legislation is often written using highly technical legal terminology that is difficult for non-lawyers to understand.
 
-For many citizens this creates significant challenges in:
+This creates several challenges:
 
-- Understanding legal rights.
-- Understanding statutory obligations.
-- Locating relevant legal provisions.
-- Identifying applicable court judgments.
-- Accessing reliable legal information without specialist assistance.
+- Limited public awareness of legal rights.
+- Difficulty understanding statutory obligations.
+- Time-consuming legal research.
+- Limited accessibility for non-English speakers.
+- Dependence on legal professionals for basic legal interpretation.
 
-The project sought to bridge this gap through Artificial Intelligence.
+The project addresses these challenges by applying Artificial Intelligence to simplify legal information while preserving legal context.
 
 ---
 
-# Proposed Solution
+# Repository Contents
 
-The application allows users to submit legal questions through a simple web interface.
-
-The system is designed to:
-
-1. Accept natural language legal queries.
-2. Retrieve relevant statutory provisions.
-3. Retrieve related judicial decisions.
-4. Generate simplified explanations using NLP.
-5. Provide references to applicable sections.
-6. Translate responses into regional languages when required.
+| Folder | Description |
+|----------|-------------|
+| **app/** | Streamlit application |
+| **notebooks/** | Model development and experimentation |
+| **docs/** | Final report, presentation and architecture |
+| **images/** | Screenshots and architecture diagrams |
+| **sample_queries/** | Example legal queries |
+| **README.md** | Executive project overview |
 
 ---
 
 # Solution Architecture
 
 ```
-User Query
+Citizen Query
       │
       ▼
 Streamlit User Interface
       │
       ▼
-Semantic Search Engine
+Natural Language Processing
+      │
+      ▼
+Semantic Search
       │
       ▼
 Vector Database
       │
- ┌────┴────┐
- │         │
- ▼         ▼
-Indian Laws   Case Judgments
- │         │
- └────┬────┘
+ ┌────┴─────┐
+ │          │
+ ▼          ▼
+Indian Laws  Court Judgments
+ │          │
+ └────┬─────┘
       ▼
 Large Language Model
       ▼
@@ -96,87 +98,32 @@ English • Hindi • Tamil
 
 ---
 
-# Project Methodology
+# Key Features
 
-The project followed a structured AI development lifecycle.
-
-## Data Collection
-
-Legal documents and judicial decisions were collected from publicly available sources.
-
-Primary datasets included:
-
-- Companies Act 2013
-- Relevant judicial decisions
-- Government publications
-- Public legal databases
+- Natural language legal queries
+- Semantic search
+- Retrieval-Augmented Generation (RAG)
+- Simplified legal explanations
+- Relevant statutory provisions
+- Judicial precedent retrieval
+- Plain-language summaries
+- Multilingual responses
+- Streamlit web interface
 
 ---
 
-## Data Preparation
+# Artificial Intelligence Components
 
-The project included:
+The solution combines several modern AI techniques:
 
-- PDF extraction.
-- Section identification.
-- Text cleaning.
-- Document segmentation.
-- Metadata preparation.
-- Data structuring for semantic retrieval.
-
-Python libraries such as PyMuPDF, Pandas and Regular Expressions were used to prepare legal documents for downstream processing.
-
----
-
-## Model Evaluation
-
-Multiple transformer models were evaluated before selecting the final solution.
-
-Models investigated included:
-
-- T5 Small
-- T5 Base
-- Pegasus
-- Facebook BART
-- GPT-3.5
-- GPT-based summarisation
-- Additional transformer pipelines
-
-Performance was assessed using established NLP evaluation metrics including:
-
-- ROUGE
-- BLEU
-
-The selected models were further refined using manually generated reference outputs.
-
----
-
-## Semantic Search
-
-The application uses semantic search rather than traditional keyword matching.
-
-Key technologies include:
-
-- Sentence Transformers
-- BERT Embeddings
-- Pinecone Vector Database
-- Semantic Similarity Search
-
-This enables users to retrieve legally relevant sections even when queries do not exactly match statutory wording.
-
----
-
-## User Interface
-
-The solution includes a Streamlit-based web interface designed to provide:
-
-- Simple legal queries.
-- Plain-language responses.
-- Expandable legal references.
-- Relevant case law.
-- Multilingual output.
-
-The interface was designed to minimise the technical knowledge required to access legal information.
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Sentence Embeddings
+- Text Summarisation
+- Question Answering
+- Information Retrieval
+- Multilingual Translation
 
 ---
 
@@ -188,16 +135,17 @@ The interface was designed to minimise the technical knowledge required to acces
 
 ## Artificial Intelligence
 
-- Large Language Models (LLMs)
-- Natural Language Processing
-- Sentence Transformers
-- Semantic Search
-- Text Summarisation
-
-## Machine Learning Libraries
-
 - Transformers
+- Large Language Models
+- Hugging Face
+- Sentence Transformers
+
+## Machine Learning
+
 - Scikit-learn
+
+## NLP
+
 - SpaCy
 - NLTK
 - Gensim
@@ -206,59 +154,55 @@ The interface was designed to minimise the technical knowledge required to acces
 ## Data Processing
 
 - Pandas
-- BeautifulSoup
+- NumPy
 - PyMuPDF
-- SentencePiece
+- BeautifulSoup
 
 ## Vector Search
 
 - Pinecone
-- Sentence Embeddings
 
-## Application Framework
+## User Interface
 
 - Streamlit
 
 ---
 
-# Key Features
+# Project Deliverables
 
-- Natural language legal queries.
-- Semantic search.
-- Retrieval-Augmented responses.
-- Plain-language explanations.
-- Judicial decision retrieval.
-- Statutory references.
-- Expandable detailed explanations.
-- Multilingual support.
-- User-friendly interface.
+This repository contains:
 
----
+✅ Complete Source Code
 
-# Multilingual Capability
+✅ Streamlit Application
 
-The proposed solution supports legal explanations in:
+✅ Final Project Report
 
-- English
-- Hindi
-- Tamil
+✅ Executive Presentation
 
-This improves accessibility for a broader population and aligns with the project's objective of increasing legal literacy.
+✅ Jupyter Notebooks
+
+✅ Model Evaluation
+
+✅ Architecture Documentation
+
+✅ Sample Queries
 
 ---
 
-# My Contribution
+# My Contributions
 
 My contributions included:
 
-- Participating in solution design.
-- Supporting the NLP approach.
-- Contributing to model evaluation.
-- Assisting with semantic search design.
-- Supporting multilingual solution planning.
-- Preparing project documentation.
-- Contributing to the final report.
-- **Presenting approximately 50% of the final Capstone presentation**, covering the project vision, AI architecture, technical methodology and expected business impact.
+- Solution design
+- AI architecture discussions
+- NLP workflow design
+- Semantic search evaluation
+- Model evaluation
+- Documentation
+- Final report preparation
+- Presentation development
+- **Presentation of approximately 50% of the final Capstone demonstration**
 
 ---
 
@@ -270,19 +214,14 @@ My contributions included:
 - Large Language Models
 - Retrieval-Augmented Generation
 - Prompt Engineering
-- Semantic Search
-
----
 
 ## Natural Language Processing
 
-- Document Summarisation
-- Text Paraphrasing
-- Semantic Similarity
+- Semantic Search
+- Text Summarisation
 - Question Answering
 - Information Retrieval
-
----
+- Text Processing
 
 ## Software Engineering
 
@@ -290,68 +229,72 @@ My contributions included:
 - Streamlit
 - Vector Databases
 - API Integration
-- Knowledge Retrieval
-
----
 
 ## Product Development
 
 - Solution Architecture
-- User Experience Design
 - Product Vision
+- User Experience Design
 - Technical Communication
-- Agile Team Collaboration
 
 ---
 
-# Business & Social Value
+# Business & Social Impact
 
-The project demonstrates how Artificial Intelligence can make legal information more accessible to the general public.
+The solution demonstrates how Artificial Intelligence can improve legal literacy by making complex legislation easier to understand.
 
 Potential applications include:
 
-- Citizen legal awareness.
-- Government digital services.
-- Educational institutions.
-- Legal research.
-- Small businesses.
-- Public legal information portals.
-
-By simplifying complex legislation into understandable language, the solution has the potential to improve legal literacy and encourage greater awareness of constitutional rights and responsibilities.
+- Citizen legal awareness
+- Government digital services
+- Educational institutions
+- Legal research
+- Public information portals
+- Small business compliance
 
 ---
 
 # Future Enhancements
 
-Potential future enhancements include:
-
-- Support for all major Indian languages.
-- Voice-enabled legal assistant.
-- Mobile application.
-- AI-powered legal document drafting.
-- Expanded legal knowledge base.
-- Real-time legal updates.
-- Explainable AI features.
-- Integration with official legal databases.
+- Voice-enabled legal assistant
+- Support for all Indian languages
+- Mobile application
+- Explainable AI
+- AI-assisted legal drafting
+- Real-time legal updates
+- Integration with official legal databases
 
 ---
 
-# Repository Contents
+# Repository Structure
 
-- Streamlit application.
-- NLP processing pipeline.
-- Model evaluation notebooks.
-- Fine-tuning scripts.
-- Vector search implementation.
-- Project report.
-- Presentation.
-- Training datasets.
-- Model evaluation outputs.
+```
+indian-legal-ai-assistant/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+│
+├── app/
+├── notebooks/
+├── docs/
+│   ├── Final Report.pdf
+│   ├── Presentation.pdf
+│   └── Architecture.pdf
+│
+├── images/
+│
+├── sample_queries/
+│
+└── data/
+```
 
 ---
 
 # Disclaimer
 
-This repository represents the Capstone Project completed as part of the Master of Science in Data Science programme at Northwestern University.
+This repository represents the Capstone Project completed as part of the **Master of Science in Data Science (MSDS)** program at **Northwestern University**.
 
-It demonstrates the application of Artificial Intelligence and Natural Language Processing to improve access to legal information and should not be interpreted as a substitute for professional legal advice.
+It demonstrates the application of Artificial Intelligence, Natural Language Processing and Retrieval-Augmented Generation to improve public access to legal information.
+
+The application is intended for educational and research purposes and should not be interpreted as a substitute for professional legal advice.
