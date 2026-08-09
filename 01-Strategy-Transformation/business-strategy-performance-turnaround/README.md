@@ -44,26 +44,18 @@ My role covered both **consulting delivery and practice development**.
 
 I worked across the complete consulting lifecycle:
 
-```text
-Market Opportunity
-        ↓
-Business Development
-        ↓
-Proposal Development
-        ↓
-Client Win
-        ↓
-Resource Deployment
-        ↓
-Engagement Delivery
-        ↓
-Client Relationship
-        ↓
-Billing
-        ↓
-Account Expansion
-        ↓
-Practice Profitability
+| Stage | My Involvement |
+|---|---|
+| **Market Opportunity** | Identified and assessed potential client opportunities |
+| **Business Development** | Developed and supported new business opportunities |
+| **Proposal Development** | Prepared and contributed to approximately 15–20 proposals |
+| **Client Win** | Supported client discussions and conversion of opportunities |
+| **Resource Deployment** | Matched available resources with client requirements |
+| **Engagement Delivery** | Managed and delivered major client assignments |
+| **Client Relationship** | Worked with senior client stakeholders and management |
+| **Billing** | Participated in billing and commercial management |
+| **Account Expansion** | Identified opportunities for additional work |
+| **Practice Profitability** | Contributed to the overall commercial performance of the practice |
 
 ------
 
