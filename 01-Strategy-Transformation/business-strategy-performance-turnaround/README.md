@@ -506,18 +506,21 @@ The experience provided a strong foundation in **consulting practice management,
 
 ---
 
-## Repository Structure
 
-```text
-business-strategy-performance-turnaround/
-│
-├── README.md
-│
-├── docs/
-│   ├── proposals/
-│   ├── client-material/
-│   └── supporting-documents/
-│
-├── images/
-│
-└── supporting-material/
+Confidentiality Notice
+
+This case study has been prepared for professional portfolio purposes.
+
+Client names, project descriptions and financial figures are included only where they are appropriate for portfolio disclosure or have been provided by the author for this purpose.
+
+No confidential client information, proprietary methodologies, personal information or commercially sensitive documentation should be uploaded to the public repository.
+
+Where supporting documents are retained for private reference, they should remain outside the public GitHub repository.
+
+Disclaimer
+
+This case study represents a professional experience summary and is intended to demonstrate capabilities in consulting practice management, business development, client delivery and commercial management.
+
+Financial figures are presented as approximate where indicated and should not be interpreted as audited financial information.
+
+The case study is not intended to disclose confidential or proprietary information belonging to Protiviti or any client.
