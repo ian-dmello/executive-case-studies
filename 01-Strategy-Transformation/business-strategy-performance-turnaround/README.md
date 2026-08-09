@@ -65,7 +65,7 @@ Account Expansion
         ↓
 Practice Profitability
 
-
+------
 
 My responsibilities included:
 
