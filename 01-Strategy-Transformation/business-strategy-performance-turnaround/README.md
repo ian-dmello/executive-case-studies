@@ -65,6 +65,8 @@ Account Expansion
         ↓
 Practice Profitability
 
+
+
 My responsibilities included:
 
 Developing business proposals.
@@ -78,6 +80,8 @@ Supporting resource deployment.
 Managing billing-related activities.
 Engaging with senior client stakeholders.
 Identifying opportunities for additional work.
+
+
 Practice Turnaround Framework
 
 I approached the practice challenge through an integrated operating model.
