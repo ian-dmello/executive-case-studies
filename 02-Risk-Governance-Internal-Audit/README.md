@@ -32,7 +32,7 @@ The case studies cover:
 
 ### Al Fardan Group – Internal Audit Transformation
 
-[Al Fardan Group Internal Audit Transformation](./altfardan-group-internal-audit-transformation/)
+[Al Fardan Group Internal Audit Transformation](./al-fardan-group-internal-audit-transformation/)
 
 A case focused on strengthening and transforming the internal audit function, including audit planning, risk assessment, governance and management reporting.
 
