@@ -1,22 +1,22 @@
+The main issue is that GitHub README files do not render OpenAI's image URLs reliably, and your tables are broken because each row is split across multiple lines. Below is a GitHub-ready `README.md` with proper Markdown formatting, clean tables, badges, emojis, and placeholder image links that you can replace with your own screenshots later.
+
 ### AI Equity Research Agent
 
 > An autonomous AI agent designed to perform institutional-style equity research by combining financial statement analysis, valuation models, news intelligence, and risk assessment into a single research workflow.
 
-Status: Concept & Architecture Project (GitHub Portfolio)
+Python OpenAI Status License
 
-![Design Resources: Attract the Best Candidates | Toptal®](https://images.openai.com/static-rsc-4/hNxmNuYrpxriYtpSNHp7bd8bviPwGKtA62D2wI81XvLFV7pir3inxSbzqNDX2WqYKLJtrCZZWnRFoL1EizYsvA31ok1feWoy3eJGWT4UYUzxRJ9VkQgC1YKJ0f8obKyiljjXnKQtfw8T76wZfL7z1h0fovi3yxo1YVXzD99qwKA?purpose=inline)
-
-![Robust Value : Institutional Stock Valuation & Research](https://images.openai.com/static-rsc-4/cxjnAknANpm2S-aA_S4mRfdinAj3VT9Jwdw_mO3vYvnTsdwL3sVXcMAYcley6sihzUYh9kKLN24f7xPDz-kmwxKP-kW98V05TWdSmASQdl-datWK-G9v8-e_-d8NQmhiG7MCg6ukr22kglMlAdHM7GUeC36yu7Mnxq5pQAmisAA?purpose=inline)
-
-![Mengenal Peran Data Analytics di Akuntansi (Part 1) – Accounting](https://images.openai.com/static-rsc-4/bTOSPMhKA60V96-rX64npVFlWULbVIoHzvpGOuw6TOEfQE-aL_QlpxrN63tmBsvPiMBjL0BAK_jPunNzC7m0C2Wl8IDjRb5vdSUjEsbej5F230ClOhqb6ekmQ9PBg2NK6vPcKHMvWm3dF0eS5LZBqeOw07LZpuJeI15ppJCJsYY?purpose=inline)
-
-
+> Status: Concept & Architecture Project (GitHub Portfolio)
 
 ### Overview
 
-The AI Equity Research Agent automates much of the workflow performed by equity research analysts. Instead of manually collecting annual reports, earnings transcripts, financial ratios, news, and valuation metrics, the agent gathers, analyzes, and synthesizes information into a structured investment report.
+The AI Equity Research Agent automates much of the workflow traditionally performed by equity research analysts. Instead of manually collecting annual reports, earnings transcripts, financial ratios, news, and valuation metrics, the agent gathers, analyzes, and synthesizes information into a structured investment report.
 
 The objective is not to replace investment decisions, but to significantly reduce research time while improving consistency in financial analysis.
+
+> Tip: Replace the placeholder image below with your own dashboard screenshot later.
+
+![Sherlock AI](https://images.openai.com/static-rsc-4/yPlYAncU6qIn2fgAWror-LYdoRouc2b0d1-qdrwstzCos2tfdRj5VCrC17ulXsaN4n3s4BMS90pHPBfanrRJzFmAgaQIDXYx_8hSVyJmg8aMi9UXVB73HC48fPA-actavU2SJ-aIxIQeYkb1netdmp3A2yTQd9gt7Toy72MC2TU?purpose=inline)
 
 ### Problem Statement
 
@@ -34,21 +34,13 @@ Traditional equity research requires analysts to:
 
 * Estimate intrinsic value.
 
-These tasks are repetitive and time-intensive. An AI agent can automate data gathering and perform first-level analysis, allowing analysts to focus on judgment-based investment decisions.
+These tasks are repetitive and time-intensive. An AI agent can automate data collection and first-level analysis, allowing analysts to focus on higher-value investment judgment.
 
 ### Key Features
 
 ### Financial Statement Analysis
 
-![Brian Feroldi (@BrianFeroldi) on X](https://images.openai.com/static-rsc-4/UD16NAeYIDqecIvU0wnKQqGY1SPJ2t3xuPQc9slfK5ue5Cg8cGYz1_GUFhWzv7kHigb4eoiamtVLBRJzpZOi3T7kUoZ4xqUITfCkpYLqHzTJJarkYFN-ggycMxh01BCMklh2L6ZOylsLO0pa4nCX7x8IsW5-5YPehLc-KZlDoIg?purpose=inline)
-
-![Top 30 Excel Linked Data-Driven PowerPoint Slides and Templates](https://images.openai.com/static-rsc-4/bxzBt4vEmxF9iehti2kgAFWZALQSt6Vp68Ai0UXpTnpdi49mcaAUFGaWAyDarux_wRJO9wE18s-4XsOeH1NHvLc4tMmJsISxRKRUtrlwJafWzaNweXR1A07YXlb0AY7lNEYsSJmoAEjm5oUFNbZ0S0FbQ1gxEv11atA_Q7PvozI?purpose=inline)
-
-![Treasury Intelligence at Your Fingertips 📊
-Your treasury data holds the key to better decision-making—if you can unlock it. Data Insights by Hazeltree gives you:
-✅ Real-time analytics on cash… | Hazeltree](https://images.openai.com/static-rsc-4/z9opEWZVJ_74wjaQc3Y5xnBOXOaT5DPcIvYU6q-h6X58cguLk1x-cSWqqkb84mX-Cv7mlxsJtZ9G2WZRvhi50y4CeXnVZnnP3_lVHThYpyPX8mCFMvTwtN65P8GItP2FF5QcenmWqWxHwGV9h5QuNcfim1q_fGk6Vr7wBLjixqw?purpose=inline)
-
-
+![Stock valuation and analysis](https://images.openai.com/static-rsc-4/GrJqWOqXVqxYlVuLi7iCCIt8EeHZOtHb321KCLyhLZ54W06xlzlWVU8YEH9BCdxIoM89POSiEWV3nwGNgtp0FQgnrkfbMc8ujFY-lWVNpT_mAzG39CeTZUE-d0UlCxkKEO7LJvUrJSxusarZU6T7j6gzGha364pCl-NBG1lpR8o?purpose=inline)
 
 * Income Statement trend analysis
 
@@ -64,13 +56,7 @@ Your treasury data holds the key to better decision-making—if you can unlock i
 
 ### Valuation Engine
 
-![Discounted Cash Flow Model A Practical Guide for Valuing Businesses](https://images.openai.com/static-rsc-4/T25sZUi-7feT9L0_xYxzmpyZ7i2HHalUzjCRad1EOjgzvOnr8iiGL0OWrvVwd4dHHg9Qouc4t9Boco0nlTtDFX2i1VKpPnGlUlvjtiNrQFmdYc6NGdDZux-6HWjPu6cmMSk9i2Q2OyyNgXs7jXUYQ1BcBYZsXDeNizfFk55f-ks?purpose=inline)
-
-![NUEVA WEB ALEINVERSOR ANALISIS FUNDAMENTAL🛜](https://images.openai.com/static-rsc-4/w3pyaKkTUvkBVzP_jdCmT5Njmcg-cazjKmy8GTzQ3jhpnpMJgO3l2leulzQQx2N0MoQjGHfgqig4WeHmlCfoHwLo93QYU8eqV8-u_Jt4f6AGNxfvJwDk-GiOWrhEPA-1zKbkHvR7A_a4_yYYzG0apxyjq9kt6rKl6V6b03JRDqg?purpose=inline)
-
-![How to Perform Scenario and Sensitivity Analysis for Effective Stock Valuation | StableBread](https://images.openai.com/static-rsc-4/LeNOMQgZyZGfJ27L0Uim7_IOZomcvUwBlbgkPWreClYBoZR--5ckrDsgBrrnbx0RCWiSpnt4TjFyMXoUUzztkvPkJ4tO_Y4-cBMdwNegiKRdPSR6uVagippBA5g1vO14g2ZKhSCdv8_e-lBexFhKBZGYOOKJ6TX45ulJe6wA1PU?purpose=inline)
-
-
+![Financial Model Templates in Excel | eFinancialModels](https://images.openai.com/static-rsc-4/yibgiBFPHIUNiiAPc2B7mCk3ka-Zjzq8H_0Cw7emO6CPprAT30iiJczTD7HiEA1YF1VZFCDWgk-kBlRRbSPpgLPuo9hkAteP32NFkE2XIunHpy1YqGdVkWQlYGaQXvJDiajj-nlWQUW0izDq0pOaatj2hVGktTVqfAZ8jTwHNKc?purpose=inline)
 
 Supports multiple valuation approaches:
 
@@ -88,13 +74,7 @@ The agent compares valuation multiples against historical averages and industry 
 
 ### Market Intelligence
 
-![Financial Signals Dashboard: AI-Powered Real-time Stock Analysis with Bright Data MCP Server & Strands Agents SDK - DEV Community](https://images.openai.com/static-rsc-4/tY6HnTfKY329xLbRVpY3q0cgB9OM60ks4SU0z0Fy14uolV3J8Ti3XSGg9XghG8j5DmUFY6p6lONjAkJcZq4BTdeCJ4505RfM3ncQmWoIshZ4KGCk71tckj3xdrtb-ByBXemtfr_FlMBiwS0Vh9Z_RSTZircXogi_8xh-Yrz9jik?purpose=inline)
-
 ![Free and low cost alternatives to Bloomberg | Hudson Labs](https://images.openai.com/static-rsc-4/5IJNjY3hcGQdQDL4nWjZO0BgtQPE_scvnGMgbUaltqyhP0z2zm70eo8ZwzVyYZGwygJpuu5vCKTDtgoRBjNyb24YEjwRC9Nm-SpOBz05OYB-LWHpus75eDOfDxm0aF5xhu5vBCDdBF3N2Cace-a_W_1jrYscIkX18Mvw7OReCU4?purpose=inline)
-
-![Zanista.AI](https://images.openai.com/static-rsc-4/Xf05CSs0ar_mpduNVAWq-_G-oHdLkcwKZ_sPEYjFYcW5sCnTNSxndiBp6zrG_7bNRUzZp1_g7OWA1KGD0mBCiHV1lMOev-iexleoDKI7ctmGhMMxHmUkYIWB9oeTSaB8SY_yjJZfaWH6xcs59Cgc2yrq8dq5h4zH00uCaIFr4zw?purpose=inline)
-
-
 
 * Earnings transcript summarization
 
@@ -108,7 +88,7 @@ The agent compares valuation multiples against historical averages and industry 
 
 ### Risk Assessment
 
-Automatically identifies potential risks including:
+The agent automatically identifies potential risks, including:
 
 * High leverage
 
@@ -124,27 +104,27 @@ Automatically identifies potential risks including:
 
 ### Research Workflow
 
-![Tuto Startup - AI-powered assistants for investment research with multi-mod](https://images.openai.com/static-rsc-4/UF89hdt2YTnb9nZyzBGQ_pytQEoaJCFjob4pHBA7NlhwgACBvana_39_EpDblUUXT3SfPfR7Dr47IjNMBnygMmvpZ7UYgFsIHBu9oB8K0mWpAt3HLRehm80b_k9iZgHkycEeKgeDe9eIn1F6Uj6bgi2jBXLXedT-UY8rjGgXmKY?purpose=inline)
+![Medium](https://images.openai.com/static-rsc-4/z5JJwVIXkHnsm26bFAAg8WzBBQu1icrQ9AIRGdmhdl-DnaLfvkW6uxBZ691XsF90_wabgu8mVVffMTtPYjwuO1QLCrhrPWz1P0xigBbbiptz6hh9FJBc5O2mF69w57xcoS4smPQmE1PZWQv1KsQgER9FsEOvwaXekwYTnBnzrRw?purpose=inline)
 
-1. Collect financial data.
+1. Collect financial data
 
-2. Extract key metrics.
+2. Extract key metrics
 
-3. Analyze financial performance.
+3. Analyze financial performance
 
-4. Compare industry peers.
+4. Compare industry peers
 
-5. Process news and earnings calls.
+5. Process news and earnings calls
 
-6. Perform valuation.
+6. Perform valuation
 
-7. Generate risk assessment.
+7. Generate risk assessment
 
-8. Produce investment report.
+8. Produce a comprehensive investment report
 
 ### System Architecture
 
-![Building a Multi-Agent Chatbot for Financial Analysis | Pavan Belagatti posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/716tVK8wbV8ECnElKkTbutQ6o-sdir8HyWJ0_FO0mbUuk1GFxEIbQe8MgeO8-qRDgiE9yjBgKQPKye4YlR_WJTIMWcQeuueL8cGY2arvvo7QhoKO4vKdcUDscgx3Im42mIgLLiGa_CYBn9zP9cTR6ilI0ZtPPBju4jy1NmsudkE?purpose=inline)
+![Agentic Framework Showdown: We Tested 8 AI Agent Frameworks  | TELUS Digital](https://images.openai.com/static-rsc-4/HXd8c11d1P7Wq6EdqNTv23w0ziUwYB0LyYN6_51zUqNyalQ0SMaghjELt_zOg_n0k6rZOhI_RuMwzwUHOwVlxJ6rhEacN-4-z8bhCz4EQ1Q1yCHKkKOvhbiIoaYHidXbSL2Ioy1MZ0njON_MiV4x0IpG7O2BhaN4NxDt7MKwVqs?purpose=inline)
 
 |
 Agent
@@ -170,7 +150,7 @@ Financial Analysis Agent
 
 |
 
-Calculates ratios and trends
+Calculates financial ratios and identifies performance trends
 
 |
 |
@@ -179,7 +159,7 @@ Valuation Agent
 
 |
 
-Performs intrinsic value calculations
+Performs intrinsic value calculations using DCF, P/E, EV/EBITDA, and other valuation methods
 
 |
 |
@@ -188,25 +168,25 @@ News Intelligence Agent
 
 |
 
-Summarizes news and transcripts
+Summarizes news, earnings transcripts, and regulatory announcements
 
 |
 |
 
-Risk Agent
+Risk Assessment Agent
 
 |
 
-Detects financial and governance risks
+Detects financial, operational, governance, and market risks
 
 |
 |
 
-Report Agent
+Report Generation Agent
 
 |
 
-Produces the final research report
+Compiles all insights into a structured equity research report
 
 |
 
@@ -232,7 +212,7 @@ The agent generates an institutional-style research report containing:
 
 * Investment Thesis
 
-Example recommendation format:
+### Sample Recommendation
 
 |
 Metric
@@ -263,7 +243,7 @@ ROE
 |
 |
 
-Debt/Equity
+Debt-to-Equity
 
 |
 
@@ -440,9 +420,9 @@ Future versions could include:
 
 * PDF report generation
 
-### Why this project matters
+### Why This Project Matters
 
-Institutional research often requires hours of manual work across financial statements, valuation models, and market updates. An AI Equity Research Agent demonstrates how autonomous AI systems can streamline that workflow, delivering faster, more consistent, and data-driven investment insights while leaving the final investment decision to human judgment.
+Institutional research often requires hours of manual work across financial statements, valuation models, and market updates. The AI Equity Research Agent demonstrates how autonomous AI systems can streamline that workflow, delivering faster, more consistent, and data-driven investment insights while leaving the final investment decision to human judgment.
 
-This project showcases the intersection of AI, financial analysis, and investment research, making it particularly relevant for professionals in finance, audit, and capital markets.
+This project showcases the intersection of Artificial Intelligence, Financial Analysis, and Investment Research, making it particularly relevant for professionals in finance, audit, and capital markets.
 
