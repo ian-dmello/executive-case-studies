@@ -1,189 +1,110 @@
-# AI Equity Research Agent
+### AI Equity Research Agent
 
 > An autonomous AI agent designed to perform institutional-style equity research by combining financial statement analysis, valuation models, news intelligence, and risk assessment into a single research workflow.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python">
-  <img src="https://img.shields.io/badge/OpenAI-GPT-black" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Status-Concept%20%26%20Architecture-orange" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-</p>
+Python OpenAI Status License
 
-> **Status:** Concept & Architecture Project (GitHub Portfolio)
+> Status: Concept & Architecture Project (GitHub Portfolio)
 
----
+### Overview
 
-## Overview
+The AI Equity Research Agent automates much of the workflow traditionally performed by equity research analysts. Instead of manually collecting annual reports, earnings transcripts, financial ratios, news, and valuation metrics, the agent gathers, analyzes, and synthesizes information into a structured investment report.
 
-The **AI Equity Research Agent** automates much of the workflow traditionally performed by institutional equity research analysts. Instead of manually collecting annual reports, earnings transcripts, financial ratios, news, and valuation metrics, the agent gathers, analyzes, and synthesizes information into a structured investment report.
+The objective is not to replace investment decisions, but to significantly reduce research time while improving consistency in financial analysis.
 
-Rather than replacing investment decisions, the system acts as an intelligent research assistant that reduces repetitive work while improving consistency, speed, and analytical depth.
+> Tip: Replace the placeholder image below with your own dashboard screenshot later.
 
-<p align="center">
-  <img src="assets/dashboard.png" alt="AI Equity Research Dashboard" width="900">
-</p>
+![Sherlock AI](https://images.openai.com/static-rsc-4/yPlYAncU6qIn2fgAWror-LYdoRouc2b0d1-qdrwstzCos2tfdRj5VCrC17ulXsaN4n3s4BMS90pHPBfanrRJzFmAgaQIDXYx_8hSVyJmg8aMi9UXVB73HC48fPA-actavU2SJ-aIxIQeYkb1netdmp3A2yTQd9gt7Toy72MC2TU?purpose=inline)
 
----
+### Problem Statement
 
-## Problem Statement
+Traditional equity research requires analysts to:
 
-Traditional equity research involves numerous repetitive tasks that consume significant analyst time.
+* Read annual reports and quarterly filings.
 
-Typical workflows require analysts to:
+* Calculate financial ratios.
 
-- Read annual reports and quarterly filings.
-- Extract financial statement data.
-- Calculate profitability and leverage ratios.
-- Monitor earnings announcements.
-- Track macroeconomic developments.
-- Compare competitors.
-- Estimate intrinsic value.
-- Consolidate findings into research reports.
+* Track earnings announcements.
 
-An AI-powered agent can automate much of this first-level analysis, allowing analysts to focus on higher-value investment judgment.
+* Monitor macroeconomic developments.
 
----
+* Compare competitors.
 
-# Key Features
+* Estimate intrinsic value.
 
-Key Features
-Financial Statement Analysis
+These tasks are repetitive and time-intensive. An AI agent can automate data collection and first-level analysis, allowing analysts to focus on higher-value investment judgment.
 
-Income Statement trend analysis
+### Key Features
 
-Balance Sheet health assessment
+### Financial Statement Analysis
 
-Cash Flow quality analysis
+![Stock valuation and analysis](https://images.openai.com/static-rsc-4/GrJqWOqXVqxYlVuLi7iCCIt8EeHZOtHb321KCLyhLZ54W06xlzlWVU8YEH9BCdxIoM89POSiEWV3nwGNgtp0FQgnrkfbMc8ujFY-lWVNpT_mAzG39CeTZUE-d0UlCxkKEO7LJvUrJSxusarZU6T7j6gzGha364pCl-NBG1lpR8o?purpose=inline)
 
-Working capital review
+* Income Statement trend analysis
 
-Margin analysis
+* Balance Sheet health assessment
 
-Return ratios (ROE, ROCE, ROA)
+* Cash Flow quality analysis
 
-Valuation Engine
+* Working capital review
+
+* Margin analysis
+
+* Return ratios (ROE, ROCE, ROA)
+
+### Valuation Engine
+
+![Financial Model Templates in Excel | eFinancialModels](https://images.openai.com/static-rsc-4/yibgiBFPHIUNiiAPc2B7mCk3ka-Zjzq8H_0Cw7emO6CPprAT30iiJczTD7HiEA1YF1VZFCDWgk-kBlRRbSPpgLPuo9hkAteP32NFkE2XIunHpy1YqGdVkWQlYGaQXvJDiajj-nlWQUW0izDq0pOaatj2hVGktTVqfAZ8jTwHNKc?purpose=inline)
 
 Supports multiple valuation approaches:
 
-Discounted Cash Flow (DCF)
+* Discounted Cash Flow (DCF)
 
-Price-to-Earnings (P/E)
+* Price-to-Earnings (P/E)
 
-EV/EBITDA
+* EV/EBITDA
 
-Price-to-Book
+* Price-to-Book
 
-PEG Ratio
+* PEG Ratio
 
 The agent compares valuation multiples against historical averages and industry peers.
 
-Market Intelligence
+### Market Intelligence
 
-Earnings transcript summarization
+![Free and low cost alternatives to Bloomberg | Hudson Labs](https://images.openai.com/static-rsc-4/5IJNjY3hcGQdQDL4nWjZO0BgtQPE_scvnGMgbUaltqyhP0z2zm70eo8ZwzVyYZGwygJpuu5vCKTDtgoRBjNyb24YEjwRC9Nm-SpOBz05OYB-LWHpus75eDOfDxm0aF5xhu5vBCDdBF3N2Cace-a_W_1jrYscIkX18Mvw7OReCU4?purpose=inline)
 
-News sentiment analysis
+* Earnings transcript summarization
 
-Regulatory filing monitoring
+* News sentiment analysis
 
-Corporate action tracking
+* Regulatory filing monitoring
 
-Management commentary extraction
+* Corporate action tracking
 
-Risk Assessment
+* Management commentary extraction
+
+### Risk Assessment
 
 The agent automatically identifies potential risks, including:
 
-High leverage
+* High leverage
 
-Declining operating margins
+* Declining operating margins
 
-Cash flow deterioration
+* Cash flow deterioration
 
-Governance concerns
+* Governance concerns
 
-Earnings volatility
+* Earnings volatility
 
-Industry headwinds
+* Industry headwinds
 
-Research Workflow
+### Research Workflow
 
-Collect financial data
+![Medium](https://images.openai.com/static-rsc-4/z5JJwVIXkHnsm26bFAAg8WzBBQu1icrQ9AIRGdmhdl-DnaLfvkW6uxBZ691XsF90_wabgu8mVVffMTtPYjwuO1QLCrhrPWz1P0xigBbbiptz6hh9FJBc5O2mF69w57xcoS4smPQmE1PZWQv1KsQgER9FsEOvwaXekwYTnBnzrRw?purpose=inline)
 
-Extract key metrics
-
-Analyze financial performance
-
-Compare industry peers
-
-Process news and earnings calls
-
-Perform valuation
-
-Generate risk assessment
-
-Produce a comprehensive investment report
-
-System Architecture
-
-Agent
-
-	
-
-Responsibility
-
-
-
-
-Data Collection Agent
-
-	
-
-Retrieves financial statements and market data
-
-
-
-
-Financial Analysis Agent
-
-	
-
-Calculates financial ratios and identifies performance trends
-
-
-
-
-Valuation Agent
-
-	
-
-Performs intrinsic value calculations using DCF, P/E, EV/EBITDA, and other valuation methods
-
-
-
-
-News Intelligence Agent
-
-	
-
-Summarizes news, earnings transcripts, and regulatory announcements
-
-
-
-
-Risk Assessment Agent
-
-	
-
-Detects financial, operational, governance, and market risks
-
-
-
-
-Report Generation Agent
-
-	
-
-Compiles all insights into a structured equity research report.
+The agent follows a structured institutional research process.
 
 | Step | Activity |
 |------|----------|
@@ -200,11 +121,9 @@ This workflow mirrors how professional equity research teams conduct company ana
 
 ---
 
-# Multi-Agent System Architecture
+### System Architecture
 
-<p align="center">
-  <img src="assets/system-architecture.png" alt="System Architecture" width="900">
-</p>
+![Agentic Framework Showdown: We Tested 8 AI Agent Frameworks  | TELUS Digital](https://images.openai.com/static-rsc-4/HXd8c11d1P7Wq6EdqNTv23w0ziUwYB0LyYN6_51zUqNyalQ0SMaghjELt_zOg_n0k6rZOhI_RuMwzwUHOwVlxJ6rhEacN-4-z8bhCz4EQ1Q1yCHKkKOvhbiIoaYHidXbSL2Ioy1MZ0njON_MiV4x0IpG7O2BhaN4NxDt7MKwVqs?purpose=inline)
 
 The project follows a modular multi-agent architecture where each specialized agent performs a distinct responsibility.
 
@@ -220,8 +139,7 @@ The project follows a modular multi-agent architecture where each specialized ag
 This modular approach allows each agent to be improved independently while contributing to a unified research pipeline.
 
 ---
-
-# Example Research Report
+### Example Output
 
 The AI Equity Research Agent generates an institutional-style research report containing:
 
@@ -235,7 +153,7 @@ The AI Equity Research Agent generates an institutional-style research report co
 - Risk Assessment
 - Investment Thesis
 
-## Sample Recommendation
+### Sample Recommendation
 
 | Metric | Value |
 |--------|-------|
@@ -250,8 +168,7 @@ The AI Equity Research Agent generates an institutional-style research report co
 The recommendation combines quantitative analysis with qualitative insights rather than relying on a single valuation metric.
 
 ---
-
-# Technology Stack
+### Technology Stack
 
 | Category | Technology |
 |----------|------------|
@@ -267,142 +184,66 @@ The recommendation combines quantitative analysis with qualitative insights rath
 The architecture is designed to remain modular, allowing future integration with premium financial data providers.
 
 ---
+### Potential Enhancements
 
-# Repository Structure
+Future versions could include:
 
-```text
-AI-Equity-Research-Agent/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-│
-├── assets/
-│   ├── dashboard.png
-│   ├── financial-analysis.png
-│   ├── valuation.png
-│   ├── market-intelligence.png
-│   ├── workflow.png
-│   └── system-architecture.png
-│
-├── architecture/
-│   └── architecture.md
-│
-├── notebooks/
-│   ├── financial_analysis.ipynb
-│   ├── valuation_models.ipynb
-│   └── sentiment_analysis.ipynb
-│
-├── reports/
-│   └── sample_report.pdf
-│
-└── src/
-    ├── data_collector.py
-    ├── financial_analyzer.py
-    ├── valuation_engine.py
-    ├── news_agent.py
-    ├── risk_agent.py
-    ├── report_generator.py
-    └── orchestrator.py
-```
+* Portfolio optimization
 
-This structure separates documentation, source code, assets, notebooks, and generated reports, making the repository easier to maintain and scale.
+* Technical analysis integration
 
----
+* Insider trading alerts
 
-# Future Enhancements
+* ESG scoring
 
-The roadmap includes several planned capabilities.
+* Options market signals
 
-## Analytics
+* Multi-market support (NSE, BSE, NYSE, NASDAQ)
 
-- [ ] Portfolio optimization
-- [ ] Technical analysis integration
-- [ ] Insider trading alerts
-- [ ] ESG scoring
-- [ ] Options market signals
+### Target Users
 
-## Data
+* Equity Research Analysts
 
-- [ ] Live NSE integration
-- [ ] Live BSE integration
-- [ ] SEC filing parser
-- [ ] Automated earnings calendar
+* Investment Professionals
 
-## AI
+* Chartered Accountants
 
-- [ ] Multi-agent orchestration
-- [ ] Retrieval-Augmented Generation (RAG)
-- [ ] Voice-based research assistant
-- [ ] Real-time watchlist monitoring
+* Portfolio Managers
 
-## Reporting
+* Retail Investors
 
-- [ ] PDF report generation
-- [ ] Interactive dashboard
-- [ ] Investment scorecard
-- [ ] Email alerts
+* Financial Students
 
----
+### Sample Use Cases
 
-# Target Users
+* Generate a complete research report for Navin Fluorine.
 
-The project is designed for:
+* Compare Aarti Industries with SRF.
 
-- Equity Research Analysts
-- Investment Professionals
-- Chartered Accountants
-- Portfolio Managers
-- Retail Investors
-- Finance Students
+* Detect deterioration in cash flows before earnings.
 
-The architecture is equally applicable to both institutional research teams and independent investors.
+* Estimate fair value using DCF and peer multiples.
 
----
+* Summarize the latest earnings call in under two minutes.
 
-# Sample Use Cases
+### Future Roadmap
 
-The AI Equity Research Agent can be used to:
+* Multi-agent orchestration
 
-- Generate a complete research report for **Navin Fluorine**.
-- Compare **Aarti Industries** with **SRF**.
-- Detect deterioration in cash flows before earnings announcements.
-- Estimate fair value using DCF and peer multiples.
-- Summarize earnings calls in under two minutes.
-- Monitor governance and regulatory developments affecting listed companies.
+* Live NSE market integration
 
----
+* Interactive dashboard
 
-# Why This Project Matters
+* Automated earnings alerts
 
-Institutional equity research often requires hours of manual work across financial statements, valuation models, earnings transcripts, and market updates.
+* Watchlist monitoring
 
-The **AI Equity Research Agent** demonstrates how autonomous AI systems can streamline that workflow by delivering faster, more consistent, and data-driven investment insights while leaving the final investment decision to human judgment.
+* Portfolio risk analytics
 
-The project showcases the intersection of:
+* PDF report generation
 
-- Artificial Intelligence
-- Financial Analysis
-- Valuation Modeling
-- Natural Language Processing
-- Multi-Agent Systems
-- Capital Markets Research
+### Why This Project Matters
 
-It serves as a practical demonstration of how AI can augment financial professionals by automating repetitive analytical tasks while preserving the importance of human judgment in investment decision-making.
+Institutional research often requires hours of manual work across financial statements, valuation models, and market updates. The AI Equity Research Agent demonstrates how autonomous AI systems can streamline that workflow, delivering faster, more consistent, and data-driven investment insights while leaving the final investment decision to human judgment.
 
----
-
-## Contributing
-
-Contributions, suggestions, and discussions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a Pull Request.
-
----
-
-## Disclaimer
-
-This project is intended for educational and research purposes only. It does not constitute financial or investment advice. Investment decisions should be based on independent research and professional judgment.
+This project showcases the intersection of Artificial Intelligence, Financial Analysis, and Investment Research, making it particularly relevant for professionals in finance, audit, and capital markets.
