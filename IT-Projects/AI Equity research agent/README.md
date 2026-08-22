@@ -10,7 +10,7 @@ Status: Concept & Architecture Project (GitHub Portfolio)
 
 ![Mengenal Peran Data Analytics di Akuntansi (Part 1) – Accounting](https://images.openai.com/static-rsc-4/bTOSPMhKA60V96-rX64npVFlWULbVIoHzvpGOuw6TOEfQE-aL_QlpxrN63tmBsvPiMBjL0BAK_jPunNzC7m0C2Wl8IDjRb5vdSUjEsbej5F230ClOhqb6ekmQ9PBg2NK6vPcKHMvWm3dF0eS5LZBqeOw07LZpuJeI15ppJCJsYY?purpose=inline)
 
-6
+
 
 ### Overview
 
@@ -48,7 +48,7 @@ These tasks are repetitive and time-intensive. An AI agent can automate data gat
 Your treasury data holds the key to better decision-making—if you can unlock it. Data Insights by Hazeltree gives you:
 ✅ Real-time analytics on cash… | Hazeltree](https://images.openai.com/static-rsc-4/z9opEWZVJ_74wjaQc3Y5xnBOXOaT5DPcIvYU6q-h6X58cguLk1x-cSWqqkb84mX-Cv7mlxsJtZ9G2WZRvhi50y4CeXnVZnnP3_lVHThYpyPX8mCFMvTwtN65P8GItP2FF5QcenmWqWxHwGV9h5QuNcfim1q_fGk6Vr7wBLjixqw?purpose=inline)
 
-5
+
 
 * Income Statement trend analysis
 
@@ -70,7 +70,7 @@ Your treasury data holds the key to better decision-making—if you can unlock i
 
 ![How to Perform Scenario and Sensitivity Analysis for Effective Stock Valuation | StableBread](https://images.openai.com/static-rsc-4/LeNOMQgZyZGfJ27L0Uim7_IOZomcvUwBlbgkPWreClYBoZR--5ckrDsgBrrnbx0RCWiSpnt4TjFyMXoUUzztkvPkJ4tO_Y4-cBMdwNegiKRdPSR6uVagippBA5g1vO14g2ZKhSCdv8_e-lBexFhKBZGYOOKJ6TX45ulJe6wA1PU?purpose=inline)
 
-6
+
 
 Supports multiple valuation approaches:
 
@@ -94,7 +94,7 @@ The agent compares valuation multiples against historical averages and industry 
 
 ![Zanista.AI](https://images.openai.com/static-rsc-4/Xf05CSs0ar_mpduNVAWq-_G-oHdLkcwKZ_sPEYjFYcW5sCnTNSxndiBp6zrG_7bNRUzZp1_g7OWA1KGD0mBCiHV1lMOev-iexleoDKI7ctmGhMMxHmUkYIWB9oeTSaB8SY_yjJZfaWH6xcs59Cgc2yrq8dq5h4zH00uCaIFr4zw?purpose=inline)
 
-6
+
 
 * Earnings transcript summarization
 
