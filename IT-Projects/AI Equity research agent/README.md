@@ -46,93 +46,144 @@ An AI-powered agent can automate much of this first-level analysis, allowing ana
 
 # Key Features
 
-## Financial Statement Analysis
+Key Features
+Financial Statement Analysis
 
-<p align="center">
-  <img src="assets/financial-analysis.png" alt="Financial Analysis Dashboard" width="900">
-</p>
+Income Statement trend analysis
 
-The Financial Statement Analysis module evaluates a company's financial health by examining historical trends, profitability, liquidity, leverage, and cash flow quality.
+Balance Sheet health assessment
 
-### Capabilities
+Cash Flow quality analysis
 
-- Income Statement trend analysis
-- Balance Sheet health assessment
-- Cash Flow quality analysis
-- Working capital review
-- Margin analysis
-- Return ratios (ROE, ROCE, ROA)
+Working capital review
 
-The agent automatically highlights deteriorating financial trends and significant year-over-year changes.
+Margin analysis
 
----
+Return ratios (ROE, ROCE, ROA)
 
-## Valuation Engine
+Valuation Engine
 
-<p align="center">
-  <img src="assets/valuation.png" alt="Valuation Dashboard" width="900">
-</p>
+Supports multiple valuation approaches:
 
-The Valuation Engine estimates intrinsic value using multiple valuation methodologies and compares companies against historical and industry valuation multiples.
+Discounted Cash Flow (DCF)
 
-### Supported valuation methods
+Price-to-Earnings (P/E)
 
-- Discounted Cash Flow (DCF)
-- Price-to-Earnings (P/E)
-- EV/EBITDA
-- Price-to-Book
-- PEG Ratio
+EV/EBITDA
 
-The agent evaluates whether a stock appears undervalued or overvalued relative to its peers.
+Price-to-Book
 
----
+PEG Ratio
 
-## Market Intelligence
+The agent compares valuation multiples against historical averages and industry peers.
 
-<p align="center">
-  <img src="assets/market-intelligence.png" alt="Market Intelligence Dashboard" width="900">
-</p>
+Market Intelligence
 
-The Market Intelligence module continuously monitors qualitative information that influences investment decisions.
+Earnings transcript summarization
 
-### Capabilities
+News sentiment analysis
 
-- Earnings transcript summarization
-- News sentiment analysis
-- Regulatory filing monitoring
-- Corporate action tracking
-- Management commentary extraction
+Regulatory filing monitoring
 
-The agent separates market noise from meaningful developments that could impact company fundamentals.
+Corporate action tracking
 
----
+Management commentary extraction
 
-## Risk Assessment
+Risk Assessment
 
-The Risk Assessment module identifies financial, operational, governance, and market risks that may affect long-term investment performance.
+The agent automatically identifies potential risks, including:
 
-### Automatically detected risks
+High leverage
 
-- High leverage
-- Declining operating margins
-- Cash flow deterioration
-- Governance concerns
-- Earnings volatility
-- Industry headwinds
-- Regulatory risks
-- Liquidity concerns
+Declining operating margins
 
-Instead of simply listing risks, the agent explains their potential impact on valuation and future performance.
+Cash flow deterioration
 
----
+Governance concerns
 
-# Research Workflow
+Earnings volatility
 
-<p align="center">
-  <img src="assets/workflow.png" alt="Research Workflow" width="900">
-</p>
+Industry headwinds
 
-The agent follows a structured institutional research process.
+Research Workflow
+
+Collect financial data
+
+Extract key metrics
+
+Analyze financial performance
+
+Compare industry peers
+
+Process news and earnings calls
+
+Perform valuation
+
+Generate risk assessment
+
+Produce a comprehensive investment report
+
+System Architecture
+
+Agent
+
+	
+
+Responsibility
+
+
+
+
+Data Collection Agent
+
+	
+
+Retrieves financial statements and market data
+
+
+
+
+Financial Analysis Agent
+
+	
+
+Calculates financial ratios and identifies performance trends
+
+
+
+
+Valuation Agent
+
+	
+
+Performs intrinsic value calculations using DCF, P/E, EV/EBITDA, and other valuation methods
+
+
+
+
+News Intelligence Agent
+
+	
+
+Summarizes news, earnings transcripts, and regulatory announcements
+
+
+
+
+Risk Assessment Agent
+
+	
+
+Detects financial, operational, governance, and market risks
+
+
+
+
+Report Generation Agent
+
+	
+
+Compiles all insights into a structured equity research report.
 
 | Step | Activity |
 |------|----------|
