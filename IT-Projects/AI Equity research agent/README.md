@@ -1,249 +1,418 @@
-### AI Equity Research Agent
+AI Agent for Equity Research
 
-> An autonomous AI agent designed to perform institutional-style equity research by combining financial statement analysis, valuation models, news intelligence, and risk assessment into a single research workflow.
+Institutional-style equity research system for Indian listed companies
 
-Python OpenAI Status License
+Authors: Ian Dmello & OpenAI
 
-> Status: Concept & Architecture Project (GitHub Portfolio)
+A structured AI-powered equity research framework that generates institutional-quality research reports for Indian industries and companies using official company disclosures, NSE/BSE filings, and a standardized research methodology. The project combines forensic accounting, financial analysis, governance assessment, and valuation into a repeatable research workflow.
 
-### Overview
+Overview
 
-The AI Equity Research Agent automates much of the workflow traditionally performed by equity research analysts. Instead of manually collecting annual reports, earnings transcripts, financial ratios, news, and valuation metrics, the agent gathers, analyzes, and synthesizes information into a structured investment report.
+This project aims to build a private institutional-style research repository rather than a simple stock screener.
 
-The objective is not to replace investment decisions, but to significantly reduce research time while improving consistency in financial analysis.
+Every report follows a documented framework that emphasizes:
 
-> Tip: Replace the placeholder image below with your own dashboard screenshot later.
+Official-source verification
 
-![Sherlock AI](https://images.openai.com/static-rsc-4/yPlYAncU6qIn2fgAWror-LYdoRouc2b0d1-qdrwstzCos2tfdRj5VCrC17ulXsaN4n3s4BMS90pHPBfanrRJzFmAgaQIDXYx_8hSVyJmg8aMi9UXVB73HC48fPA-actavU2SJ-aIxIQeYkb1netdmp3A2yTQd9gt7Toy72MC2TU?purpose=inline)
+Financial quality assessment
 
-### Problem Statement
+Governance review
 
-Traditional equity research requires analysts to:
+Forensic accounting checks
 
-* Read annual reports and quarterly filings.
+Valuation analysis
 
-* Calculate financial ratios.
+Investment decision framework
 
-* Track earnings announcements.
+The methodology is designed to produce consistent research across multiple industries while maintaining traceability for every factual statement. 
+PROJECT_RULES.txt
 
-* Monitor macroeconomic developments.
+Key Features
 
-* Compare competitors.
+Institutional-style research reports
 
-* Estimate intrinsic value.
+Industry universe screening (L2)
 
-These tasks are repetitive and time-intensive. An AI agent can automate data collection and first-level analysis, allowing analysts to focus on higher-value investment judgment.
+Company deep-dive reports (L3)
 
-### Key Features
+Financial quality scoring out of 10
 
-### Financial Statement Analysis
+Forensic accounting review
 
-![Stock valuation and analysis](https://images.openai.com/static-rsc-4/GrJqWOqXVqxYlVuLi7iCCIt8EeHZOtHb321KCLyhLZ54W06xlzlWVU8YEH9BCdxIoM89POSiEWV3nwGNgtp0FQgnrkfbMc8ujFY-lWVNpT_mAzG39CeTZUE-d0UlCxkKEO7LJvUrJSxusarZU6T7j6gzGha364pCl-NBG1lpR8o?purpose=inline)
+Corporate governance assessment
 
-* Income Statement trend analysis
+Valuation comparison against peers
 
-* Balance Sheet health assessment
+Official NSE/BSE source framework
 
-* Cash Flow quality analysis
+Standardized report templates
 
-* Working capital review
+Research Framework
 
-* Margin analysis
+The project follows a two-level research hierarchy.
 
-* Return ratios (ROE, ROCE, ROA)
+This structure is defined by the project's L2 Industry Universe template and L3 Company Deep Dive template. 
+L2_Industry_Universe_Template.txt
+ 
+L3_Company_Deep_Dive_Template.txt
 
-### Valuation Engine
+Report Types
+L2 — Industry Universe Research
 
-![Financial Model Templates in Excel | eFinancialModels](https://images.openai.com/static-rsc-4/yibgiBFPHIUNiiAPc2B7mCk3ka-Zjzq8H_0Cw7emO6CPprAT30iiJczTD7HiEA1YF1VZFCDWgk-kBlRRbSPpgLPuo9hkAteP32NFkE2XIunHpy1YqGdVkWQlYGaQXvJDiajj-nlWQUW0izDq0pOaatj2hVGktTVqfAZ8jTwHNKc?purpose=inline)
+Purpose:
 
-Supports multiple valuation approaches:
+Screen an entire industry
 
-* Discounted Cash Flow (DCF)
+Rank companies
 
-* Price-to-Earnings (P/E)
+Identify research priorities
 
-* EV/EBITDA
+Typical sections include:
 
-* Price-to-Book
+Industry definition
 
-* PEG Ratio
+Company universe
 
-The agent compares valuation multiples against historical averages and industry peers.
+Market structure
 
-### Market Intelligence
+Financial screening
 
-![Free and low cost alternatives to Bloomberg | Hudson Labs](https://images.openai.com/static-rsc-4/5IJNjY3hcGQdQDL4nWjZO0BgtQPE_scvnGMgbUaltqyhP0z2zm70eo8ZwzVyYZGwygJpuu5vCKTDtgoRBjNyb24YEjwRC9Nm-SpOBz05OYB-LWHpus75eDOfDxm0aF5xhu5vBCDdBF3N2Cace-a_W_1jrYscIkX18Mvw7OReCU4?purpose=inline)
+Quality ranking
 
-* Earnings transcript summarization
+Valuation snapshot
 
-* News sentiment analysis
+Research priority
 
-* Regulatory filing monitoring
+Example completed report:
 
-* Corporate action tracking
+Indian Specialty Chemicals Sector
 
-* Management commentary extraction
+The report ranked companies such as SRF, Navin Fluorine, and PI Industries as Tier-1 research candidates while applying standardized quality and valuation filters. 
+2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
 
-### Risk Assessment
+Example dashboard:
 
-The agent automatically identifies potential risks, including:
+Metric
 
-* High leverage
+	
 
-* Declining operating margins
+View
 
-* Cash flow deterioration
 
-* Governance concerns
 
-* Earnings volatility
 
-* Industry headwinds
+Industry
 
-### Research Workflow
+	
 
-![Medium](https://images.openai.com/static-rsc-4/z5JJwVIXkHnsm26bFAAg8WzBBQu1icrQ9AIRGdmhdl-DnaLfvkW6uxBZ691XsF90_wabgu8mVVffMTtPYjwuO1QLCrhrPWz1P0xigBbbiptz6hh9FJBc5O2mF69w57xcoS4smPQmE1PZWQv1KsQgER9FsEOvwaXekwYTnBnzrRw?purpose=inline)
+Specialty Chemicals
 
-The agent follows a structured institutional research process.
 
-| Step | Activity |
-|------|----------|
-| 1 | Collect financial data |
-| 2 | Extract key metrics |
-| 3 | Analyze financial performance |
-| 4 | Compare industry peers |
-| 5 | Process news and earnings calls |
-| 6 | Perform valuation |
-| 7 | Generate risk assessment |
-| 8 | Produce the final investment report |
 
-This workflow mirrors how professional equity research teams conduct company analysis.
 
----
+Market Cap Focus
 
-### System Architecture
+	
 
-![Agentic Framework Showdown: We Tested 8 AI Agent Frameworks  | TELUS Digital](https://images.openai.com/static-rsc-4/HXd8c11d1P7Wq6EdqNTv23w0ziUwYB0LyYN6_51zUqNyalQ0SMaghjELt_zOg_n0k6rZOhI_RuMwzwUHOwVlxJ6rhEacN-4-z8bhCz4EQ1Q1yCHKkKOvhbiIoaYHidXbSL2Ioy1MZ0njON_MiV4x0IpG7O2BhaN4NxDt7MKwVqs?purpose=inline)
+Large & Mid Cap
 
-The project follows a modular multi-agent architecture where each specialized agent performs a distinct responsibility.
 
-| Agent | Responsibility |
-|--------|----------------|
-| Data Collection Agent | Retrieves financial statements and market data |
-| Financial Analysis Agent | Calculates financial ratios and identifies performance trends |
-| Valuation Agent | Performs intrinsic value calculations using DCF, P/E, EV/EBITDA, and other valuation methods |
-| News Intelligence Agent | Summarizes news, earnings transcripts, and regulatory announcements |
-| Risk Assessment Agent | Detects financial, operational, governance, and market risks |
-| Report Generation Agent | Compiles all insights into a structured equity research report |
 
-This modular approach allows each agent to be improved independently while contributing to a unified research pipeline.
 
----
-### Example Output
+Long-Term Outlook
 
-The AI Equity Research Agent generates an institutional-style research report containing:
+	
 
-- Executive Summary
-- Business Overview
-- Financial Performance
-- Ratio Analysis
-- Peer Comparison
-- Valuation Analysis
-- Growth Drivers
-- Risk Assessment
-- Investment Thesis
+Positive
 
-### Sample Recommendation
 
-| Metric | Value |
-|--------|-------|
-| Revenue Growth | 14% |
-| ROE | 18% |
-| Debt-to-Equity | 0.32 |
-| Free Cash Flow | Positive |
-| Intrinsic Value | ₹2,150 |
-| Current Price | ₹1,890 |
-| Margin of Safety | 12% |
 
-The recommendation combines quantitative analysis with qualitative insights rather than relying on a single valuation metric.
 
----
-### Technology Stack
+Sector Risk
 
-| Category | Technology |
-|----------|------------|
-| Programming Language | Python |
-| AI Engine | OpenAI GPT |
-| Financial Data | Yahoo Finance API |
-| Data Processing | Pandas |
-| Numerical Computing | NumPy |
-| Visualization | Plotly, Matplotlib |
-| NLP | Sentiment Analysis |
-| Agent Orchestration | LangGraph |
+	
 
-The architecture is designed to remain modular, allowing future integration with premium financial data providers.
+Moderate
 
----
-### Potential Enhancements
+This format serves as the reference for future sector reports. 
+2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
 
-Future versions could include:
+L3 — Company Deep Dive
 
-* Portfolio optimization
+Purpose:
 
-* Technical analysis integration
+Build a complete investment case for a single company.
 
-* Insider trading alerts
+Mandatory coverage includes:
 
-* ESG scoring
+Investment memo
 
-* Options market signals
+Business model
 
-* Multi-market support (NSE, BSE, NYSE, NASDAQ)
+Management review
 
-### Target Users
+Financial analysis
 
-* Equity Research Analysts
+Forensic accounting review
 
-* Investment Professionals
+Valuation
 
-* Chartered Accountants
+Risk register
 
-* Portfolio Managers
+Investment scorecard
 
-* Retail Investors
+Example completed report:
 
-* Financial Students
+Navin Fluorine International Ltd.
 
-### Sample Use Cases
+The report includes:
 
-* Generate a complete research report for Navin Fluorine.
+CDMO-led investment thesis
 
-* Compare Aarti Industries with SRF.
+Revenue segmentation
 
-* Detect deterioration in cash flows before earnings.
+Manufacturing footprint
 
-* Estimate fair value using DCF and peer multiples.
+Financial performance
 
-* Summarize the latest earnings call in under two minutes.
+Forensic review
 
-### Future Roadmap
+Premium valuation assessment
 
-* Multi-agent orchestration
+Long-term investment verdict
 
-* Live NSE market integration
+It concludes with a composite score of 8.9/10 while recommending staggered accumulation due to premium valuation. 
+2026-08-23_Navin_Fluorine_L3_Deep_Dive_Report_Professional.pdf
 
-* Interactive dashboard
+Research Methodology
 
-* Automated earnings alerts
+Every report follows the operating manual.
 
-* Watchlist monitoring
+Official Sources
 
-* Portfolio risk analytics
+Priority is given to:
 
-* PDF report generation
+NSE India
 
-### Why This Project Matters
+BSE India
 
-Institutional research often requires hours of manual work across financial statements, valuation models, and market updates. The AI Equity Research Agent demonstrates how autonomous AI systems can streamline that workflow, delivering faster, more consistent, and data-driven investment insights while leaving the final investment decision to human judgment.
+Annual Reports
 
-This project showcases the intersection of Artificial Intelligence, Financial Analysis, and Investment Research, making it particularly relevant for professionals in finance, audit, and capital markets.
+Investor Presentations
+
+Quarterly Results
+
+Corporate Governance Reports
+
+Shareholding Pattern disclosures
+
+The operating manual requires every factual statement to remain traceable to official sources. 
+PROJECT_RULES.txt
+
+Quality Framework
+
+Every company receives structured assessment across six pillars.
+
+Pillar
+
+	
+
+Purpose
+
+
+
+
+Growth
+
+	
+
+Revenue and earnings expansion
+
+
+
+
+Profitability
+
+	
+
+Margins and earnings quality
+
+
+
+
+Capital Efficiency
+
+	
+
+ROCE, ROE and ROIC
+
+
+
+
+Balance Sheet
+
+	
+
+Debt and liquidity
+
+
+
+
+Governance
+
+	
+
+Promoter quality and disclosures
+
+
+
+
+Valuation
+
+	
+
+Relative attractiveness
+
+Each company ultimately receives a documented score out of 10. 
+PROJECT_RULES.txt
+
+Financial Analysis
+
+The framework reviews:
+
+Revenue CAGR
+
+EBITDA margins
+
+PAT growth
+
+EPS
+
+ROCE
+
+ROE
+
+ROIC
+
+Free Cash Flow
+
+Debt-to-Equity
+
+Interest Coverage
+
+Exceptional items are separated from recurring earnings wherever possible. 
+PROJECT_RULES.txt
+
+Forensic Accounting Review
+
+One of the project's distinguishing features is its forensic review.
+
+The framework examines:
+
+Receivables quality
+
+Inventory trends
+
+Related-party transactions
+
+Auditor observations
+
+Exceptional items
+
+Contingent liabilities
+
+This reflects an internal-audit-oriented research approach rather than a purely valuation-driven process. 
+L3_Company_Deep_Dive_Template.txt
+ 
+PROJECT_RULES.txt
+
+Valuation Framework
+
+Each company is evaluated using multiple valuation lenses.
+
+Metric
+
+	
+
+Purpose
+
+
+
+
+P/E
+
+	
+
+Earnings valuation
+
+
+
+
+P/B
+
+	
+
+Book valuation
+
+
+
+
+PEG
+
+	
+
+Growth-adjusted valuation
+
+
+
+
+EV/EBITDA
+
+	
+
+Capital-structure neutral comparison
+
+
+
+
+Dividend Yield
+
+	
+
+Income perspective
+
+Valuation is always interpreted alongside business quality and historical trading ranges. 
+PROJECT_RULES.txt
+
+Investment Decision Framework
+
+Rather than issuing simplistic buy/sell calls, the framework combines:
+
+Business quality
+
+Financial quality
+
+Governance
+
+Competitive moat
+
+Valuation
+
+Industry outlook
+
+This produces recommendations such as:
+
+Buy
+
+Buy on Corrections
+
+Hold
+
+Watchlist
+
+Speculative Buy
+
+Examples can be seen in both the Specialty Chemicals industry report and the Navin Fluorine deep dive. 
+2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
+ 
+2026-08-23_Navin_Fluorine_L3_Deep_Dive_Report_Professional.pdf
