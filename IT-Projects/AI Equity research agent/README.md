@@ -360,3 +360,15 @@ It is **not investment advice**. Investment decisions should be based on individ
 <p align="center">
 Built with ❤️ for institutional-quality Indian equity research.
 </p>
+
+
+## Sample Research Reports
+
+The following reports demonstrate the output quality and methodology of the AI Equity Research Agent.
+
+| Report | Description |
+|--------|-------------|
+| 📊 [Indian Specialty Chemicals – L2 Industry Universe Report](2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf) | Institutional-style industry screening covering market structure, company universe, financial screening, quality rankings, valuation snapshot, and research prioritization. |
+| 📈 [Navin Fluorine International – L3 Company Deep Dive Report](2026-08-23_Navin_Fluorine_L3_Deep_Dive_Report_Professional.pdf) | Comprehensive company analysis including investment thesis, financial performance, forensic accounting review, valuation framework, risk register, and investment scorecard. |
+
+> **Note:** The underlying research templates, scoring models, and operating framework are proprietary and are not included in this public repository.
