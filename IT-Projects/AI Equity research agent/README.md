@@ -1,418 +1,362 @@
-AI Agent for Equity Research
+# AI Agent for Equity Research
 
-Institutional-style equity research system for Indian listed companies
+> **Institutional-style equity research system for Indian listed companies**
 
-Authors: Ian Dmello & OpenAI
+<p align="center">
+
+![Research](https://img.shields.io/badge/Research-Institutional-blue)
+![Market](https://img.shields.io/badge/Market-India-orange)
+![Sources](https://img.shields.io/badge/Data-NSE%20%7C%20BSE-success)
+![AI](https://img.shields.io/badge/Powered%20by-OpenAI-black)
+
+</p>
+
+**Authors:** Ian Dmello & OpenAI
 
 A structured AI-powered equity research framework that generates institutional-quality research reports for Indian industries and companies using official company disclosures, NSE/BSE filings, and a standardized research methodology. The project combines forensic accounting, financial analysis, governance assessment, and valuation into a repeatable research workflow.
 
-Overview
+---
 
-This project aims to build a private institutional-style research repository rather than a simple stock screener.
+# Overview
+
+This project aims to build a **private institutional-style research repository** rather than a simple stock screener.
 
 Every report follows a documented framework that emphasizes:
 
-Official-source verification
+- Official-source verification
+- Financial quality assessment
+- Governance review
+- Forensic accounting checks
+- Valuation analysis
+- Investment decision framework
 
-Financial quality assessment
+The methodology is designed to produce consistent research across multiple industries while maintaining traceability for every factual statement.
 
-Governance review
+---
 
-Forensic accounting checks
+# Key Features
 
-Valuation analysis
+- Institutional-style research reports
+- Industry Universe Screening (L2)
+- Company Deep-Dive Reports (L3)
+- Financial quality scoring out of 10
+- Forensic accounting review
+- Corporate governance assessment
+- Valuation comparison against peers
+- Official NSE/BSE source framework
+- Standardized report templates
 
-Investment decision framework
+---
 
-The methodology is designed to produce consistent research across multiple industries while maintaining traceability for every factual statement. 
-PROJECT_RULES.txt
-
-Key Features
-
-Institutional-style research reports
-
-Industry universe screening (L2)
-
-Company deep-dive reports (L3)
-
-Financial quality scoring out of 10
-
-Forensic accounting review
-
-Corporate governance assessment
-
-Valuation comparison against peers
-
-Official NSE/BSE source framework
-
-Standardized report templates
-
-Research Framework
+# Research Framework
 
 The project follows a two-level research hierarchy.
 
-This structure is defined by the project's L2 Industry Universe template and L3 Company Deep Dive template. 
-L2_Industry_Universe_Template.txt
- 
-L3_Company_Deep_Dive_Template.txt
+```mermaid
+flowchart TD
+    A[AI Equity Research]
+    A --> B[L2 Industry Universe Research]
+    A --> C[L3 Company Deep Dive]
 
-Report Types
-L2 — Industry Universe Research
+    B --> B1[Industry Screening]
+    B --> B2[Sector Ranking]
+    B --> B3[Research Priority]
 
-Purpose:
+    C --> C1[Investment Memo]
+    C --> C2[Financial Analysis]
+    C --> C3[Forensic Review]
+    C --> C4[Valuation]
+```
 
-Screen an entire industry
+This structure is defined by the project's:
 
-Rank companies
+- **L2 Industry Universe Template**
+- **L3 Company Deep Dive Template**
 
-Identify research priorities
+---
 
-Typical sections include:
+# Report Types
 
-Industry definition
+## L2 — Industry Universe Research
 
-Company universe
+### Purpose
 
-Market structure
+- Screen an entire industry
+- Rank companies
+- Identify research priorities
 
-Financial screening
+### Typical Sections
 
-Quality ranking
+- Industry definition
+- Company universe
+- Market structure
+- Financial screening
+- Quality ranking
+- Valuation snapshot
+- Research priority
 
-Valuation snapshot
+### Example Report
 
-Research priority
+**Indian Specialty Chemicals Sector**
 
-Example completed report:
+The completed L2 report ranked companies such as **SRF**, **Navin Fluorine**, and **PI Industries** as Tier-1 research candidates while applying standardized quality and valuation filters.
 
-Indian Specialty Chemicals Sector
+### Example Dashboard
 
-The report ranked companies such as SRF, Navin Fluorine, and PI Industries as Tier-1 research candidates while applying standardized quality and valuation filters. 
-2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
+| Metric | View |
+|---------|------|
+| Industry | Specialty Chemicals |
+| Market Cap Focus | Large & Mid Cap |
+| Long-Term Outlook | Positive |
+| Sector Risk | Moderate |
 
-Example dashboard:
+This report serves as the reference format for future industry research.
 
-Metric
+---
 
-	
+## L3 — Company Deep Dive
 
-View
+### Purpose
 
+Build a complete institutional-style investment case for a single company.
 
+### Mandatory Coverage
 
+- Investment memo
+- Business model
+- Management review
+- Financial analysis
+- Forensic accounting review
+- Valuation
+- Risk register
+- Investment scorecard
 
-Industry
+### Example Report
 
-	
-
-Specialty Chemicals
-
-
-
-
-Market Cap Focus
-
-	
-
-Large & Mid Cap
-
-
-
-
-Long-Term Outlook
-
-	
-
-Positive
-
-
-
-
-Sector Risk
-
-	
-
-Moderate
-
-This format serves as the reference for future sector reports. 
-2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
-
-L3 — Company Deep Dive
-
-Purpose:
-
-Build a complete investment case for a single company.
-
-Mandatory coverage includes:
-
-Investment memo
-
-Business model
-
-Management review
-
-Financial analysis
-
-Forensic accounting review
-
-Valuation
-
-Risk register
-
-Investment scorecard
-
-Example completed report:
-
-Navin Fluorine International Ltd.
+**Navin Fluorine International Ltd.**
 
 The report includes:
 
-CDMO-led investment thesis
+- CDMO-led investment thesis
+- Revenue segmentation
+- Manufacturing footprint
+- Financial performance review
+- Forensic accounting assessment
+- Premium valuation analysis
+- Long-term investment verdict
 
-Revenue segmentation
+The completed report concludes with a **Composite Score of 8.9/10** while recommending staggered accumulation due to premium valuation.
 
-Manufacturing footprint
+---
 
-Financial performance
+# Research Methodology
 
-Forensic review
+Every report follows a standardized operating manual to ensure consistency and traceability.
 
-Premium valuation assessment
+## Official Sources
 
-Long-term investment verdict
+Priority is always given to official company disclosures.
 
-It concludes with a composite score of 8.9/10 while recommending staggered accumulation due to premium valuation. 
-2026-08-23_Navin_Fluorine_L3_Deep_Dive_Report_Professional.pdf
+- NSE India
+- BSE India
+- Annual Reports
+- Investor Presentations
+- Quarterly Results
+- Corporate Governance Reports
+- Shareholding Pattern disclosures
 
-Research Methodology
+Every factual statement is expected to remain traceable to an official source.
 
-Every report follows the operating manual.
+---
 
-Official Sources
+# Quality Framework
 
-Priority is given to:
+Every company receives a structured assessment across six core pillars.
 
-NSE India
+| Pillar | Purpose |
+|---------|---------|
+| Growth | Revenue and earnings expansion |
+| Profitability | Margins and earnings quality |
+| Capital Efficiency | ROCE, ROE and ROIC |
+| Balance Sheet | Debt and liquidity |
+| Governance | Promoter quality and disclosures |
+| Valuation | Relative attractiveness |
 
-BSE India
+Each company ultimately receives a documented score out of **10**.
 
-Annual Reports
+---
 
-Investor Presentations
-
-Quarterly Results
-
-Corporate Governance Reports
-
-Shareholding Pattern disclosures
-
-The operating manual requires every factual statement to remain traceable to official sources. 
-PROJECT_RULES.txt
-
-Quality Framework
-
-Every company receives structured assessment across six pillars.
-
-Pillar
-
-	
-
-Purpose
-
-
-
-
-Growth
-
-	
-
-Revenue and earnings expansion
-
-
-
-
-Profitability
-
-	
-
-Margins and earnings quality
-
-
-
-
-Capital Efficiency
-
-	
-
-ROCE, ROE and ROIC
-
-
-
-
-Balance Sheet
-
-	
-
-Debt and liquidity
-
-
-
-
-Governance
-
-	
-
-Promoter quality and disclosures
-
-
-
-
-Valuation
-
-	
-
-Relative attractiveness
-
-Each company ultimately receives a documented score out of 10. 
-PROJECT_RULES.txt
-
-Financial Analysis
+# Financial Analysis
 
 The framework reviews:
 
-Revenue CAGR
+- Revenue CAGR
+- EBITDA margins
+- PAT growth
+- EPS
+- ROCE
+- ROE
+- ROIC
+- Free Cash Flow
+- Debt-to-Equity
+- Interest Coverage
 
-EBITDA margins
+Recurring earnings are separated from exceptional items wherever possible.
 
-PAT growth
+---
 
-EPS
+# Forensic Accounting Review
 
-ROCE
+One of the project's distinguishing features is its forensic accounting layer.
 
-ROE
+### Review Areas
 
-ROIC
+- Receivables quality
+- Inventory trends
+- Related-party transactions
+- Auditor observations
+- Exceptional items
+- Contingent liabilities
 
-Free Cash Flow
+This reflects an internal-audit-oriented research approach rather than a purely valuation-driven process.
 
-Debt-to-Equity
+---
 
-Interest Coverage
-
-Exceptional items are separated from recurring earnings wherever possible. 
-PROJECT_RULES.txt
-
-Forensic Accounting Review
-
-One of the project's distinguishing features is its forensic review.
-
-The framework examines:
-
-Receivables quality
-
-Inventory trends
-
-Related-party transactions
-
-Auditor observations
-
-Exceptional items
-
-Contingent liabilities
-
-This reflects an internal-audit-oriented research approach rather than a purely valuation-driven process. 
-L3_Company_Deep_Dive_Template.txt
- 
-PROJECT_RULES.txt
-
-Valuation Framework
+# Valuation Framework
 
 Each company is evaluated using multiple valuation lenses.
 
-Metric
+| Metric | Purpose |
+|---------|---------|
+| P/E | Earnings valuation |
+| P/B | Book valuation |
+| PEG | Growth-adjusted valuation |
+| EV/EBITDA | Capital-structure neutral comparison |
+| Dividend Yield | Income perspective |
 
-	
+Valuation is always interpreted alongside business quality and historical trading ranges.
 
-Purpose
+---
 
+# Investment Decision Framework
 
+Rather than issuing simplistic Buy/Sell calls, the framework combines multiple dimensions of quality.
 
+### Assessment Factors
 
-P/E
+- Business quality
+- Financial quality
+- Governance
+- Competitive moat
+- Valuation
+- Industry outlook
 
-	
+### Possible Recommendations
 
-Earnings valuation
+| Recommendation | Meaning |
+|---------------|---------|
+| Buy | Attractive long-term opportunity |
+| Buy on Corrections | Strong company at better prices |
+| Hold | Quality business but fairly valued |
+| Watchlist | Monitor developments |
+| Speculative Buy | Higher-risk opportunity |
 
+Examples of this framework are demonstrated in both the **Specialty Chemicals Industry Report** and the **Navin Fluorine Deep Dive**.
 
+---
 
+# Project Structure
 
-P/B
+```text
+AI-Agent-for-Equity-Research/
+│
+├── README.md
+├── PROJECT_RULES.md
+│
+├── templates/
+│   ├── L2_Industry_Universe_Template.txt
+│   └── L3_Company_Deep_Dive_Template.txt
+│
+├── reports/
+│   ├── industries/
+│   │   └── 2026-08-23_Specialty_Chemicals/
+│   │
+│   └── companies/
+│       └── 2026-08-23_Navin_Fluorine/
+│
+└── assets/
+    └── sample-images/
+```
 
-	
+---
 
-Book valuation
+# File Naming Convention
 
+Reports follow a consistent version-controlled naming format.
 
+```text
+YYYY-MM-DD_ReportName
+```
 
+Examples:
 
-PEG
+- `2026-08-23_Specialty_Chemicals`
+- `2026-08-23_Navin_Fluorine`
 
-	
+---
 
-Growth-adjusted valuation
+# Review Cycle
 
+| Frequency | Activity |
+|------------|----------|
+| Daily | Exchange announcements |
+| Quarterly | Results, guidance and shareholding |
+| Annual | Annual reports, governance review and capital allocation review |
 
+This ensures the repository remains aligned with official company disclosures.
 
+---
 
-EV/EBITDA
+# Future Roadmap
 
-	
+Planned enhancements include:
 
-Capital-structure neutral comparison
+- Automated NSE/BSE data ingestion
+- Price trend charts
+- Interactive dashboards
+- Portfolio tracking
+- Earnings preview reports
+- Watchlist automation
+- AI-generated management Q&A
+- Institutional ownership tracking
+- Multi-sector research coverage
 
+---
 
+# Disclaimer
 
+This repository is intended for **research and educational purposes only**.
 
-Dividend Yield
+It is **not investment advice**. Investment decisions should be based on individual financial circumstances and independent verification of official company disclosures.
 
-	
+---
 
-Income perspective
+# Authors
 
-Valuation is always interpreted alongside business quality and historical trading ranges. 
-PROJECT_RULES.txt
+## Ian Dmello
 
-Investment Decision Framework
+- Chartered Accountant
+- Internal Audit & Forensic Analytics Professional
+- AI-driven Equity Research
 
-Rather than issuing simplistic buy/sell calls, the framework combines:
+## OpenAI
 
-Business quality
+- AI Research Assistant
+- Financial Analysis Support
+- Structured Research Automation
 
-Financial quality
+---
 
-Governance
-
-Competitive moat
-
-Valuation
-
-Industry outlook
-
-This produces recommendations such as:
-
-Buy
-
-Buy on Corrections
-
-Hold
-
-Watchlist
-
-Speculative Buy
-
-Examples can be seen in both the Specialty Chemicals industry report and the Navin Fluorine deep dive. 
-2026-08-23_Specialty_Chemicals_L2_Industry_Universe_Report_v2.pdf
- 
-2026-08-23_Navin_Fluorine_L3_Deep_Dive_Report_Professional.pdf
+<p align="center">
+Built with ❤️ for institutional-quality Indian equity research.
+</p>
