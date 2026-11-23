@@ -24,7 +24,7 @@ I have participated in nine Kaggle competitions/projects.
 | 4 | **Binary Prediction of Poisonous Mushrooms** | **2,070 / 2,422** | Binary classification |
 | 5 | **Natural Language Processing with Disaster Tweets** | Unranked / 534 | NLP / text classification |
 | 6 | **Predict Future Sales** | Unranked / 16,991 | Forecasting |
-| 7 | **House Prices – Advanced Regression Techniques** | Unranked / 3,794 | Regression / ensemble models |
+| 7 | **House Prices – Advanced Regression Techniques** | **Personal best: 0.12445** (latest captured submission) | Regression / CatBoost |
 | 8 | **Leaf Classification** | Unranked / 15,995 | Classification |
 | 9 | **Digit Recognizer** | Unranked / 1,087 | Computer vision / neural networks |
 
@@ -568,113 +568,50 @@ If the original notebook is recovered later, the case study can be expanded with
 
 # 7. House Prices – Advanced Regression Techniques
 
-## Problem
+## Project result
 
-The objective was to predict residential property sale prices.
+**Latest captured Kaggle score: 0.12445** (submission 9; leaderboard position 1,549 as shown in the screenshot).
 
-This project provided one of the most comprehensive surviving examples of my structured-data machine-learning work.
+![Kaggle House Prices submission showing a score of 0.12445](./house-prices-best-score.png)
 
-## Data
+- [Open the Jupyter notebook](./notebookffa7de4b49.ipynb)
+- [Open the Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
-The notebook worked with:
+## Problem and data
 
-- 1,460 training observations
-- 81 columns
-- Numerical and categorical variables
-- Significant missing data
+The objective was to predict residential property sale prices from the Ames Housing dataset. The competition provides 1,460 training rows with the target `SalePrice`, and 1,459 test rows for prediction.
 
-## Data Preparation
+## Data preparation
 
-The code included:
+The notebook demonstrates:
 
-- Exploratory Data Analysis
-- Missing-value analysis
-- Numerical imputation
-- Categorical imputation
-- One-hot encoding
-- Standardisation
-- Feature/target separation
+- Loading the competition files in a Kaggle notebook and inspecting the dataset
+- Separating `SalePrice` from the predictors
+- Checking missing values and duplicate rows
+- Treating missing values according to column meaning, including absent features such as pools, garages and basements
+- Filling `LotFrontage` with the neighborhood median, then using the training median for remaining gaps
+- Encoding categorical variables for tree and linear model experiments
+- Treating `MSSubClass` as a categorical class code in the final CatBoost experiment
 
-## Machine Learning Approaches
+## Models and evaluation
 
-The notebooks experimented with:
+The experiments progressed from Random Forest and Gradient Boosting to a Ridge/Gradient Boosting blend and CatBoost. The target was transformed with `log1p(SalePrice)`, matching the competition's log-price RMSE evaluation; predictions were converted back to prices with `expm1` for submission.
 
-- Random Forest
-- XGBoost
-- TensorFlow Decision Forests
-- Gradient Boosted Trees
-- CART
-- Distributed Gradient Boosted Trees
-- Ridge/Lasso in a separate modelling exercise
+Five-fold cross-validation produced an RMSLE of **0.12462** for the CatBoost model with `MSSubClass` treated as categorical. The corresponding Kaggle submission scored **0.12445**, the best result captured for this project. A separate blended submission scored worse, so the CatBoost submission was retained as the best.
 
-## Hyperparameter Tuning
+## Skills learned / reinforced
 
-The Scikit-learn implementation used:
+- Regression and structured-data preparation
+- Meaning-based missing-value handling
+- Categorical feature treatment
+- Log-target modelling
+- Five-fold cross-validation and RMSLE evaluation
+- CatBoost and Gradient Boosting
+- Submission-file generation and leaderboard comparison
 
-**GridSearchCV**
+## Professional relevance
 
-with five-fold cross-validation.
-
-The Random Forest implementation tuned:
-
-- Number of estimators
-- Maximum depth
-- Minimum samples split
-- Minimum samples leaf
-
-The XGBoost implementation tuned:
-
-- Number of estimators
-- Maximum depth
-- Learning rate
-- Subsample
-
-## TensorFlow Decision Forests
-
-Another notebook used:
-
-**TensorFlow Decision Forests**
-
-and compared tree-based models.
-
-A recorded evaluation of a Random Forest model showed an RMSE of approximately **31,482** on a 1,042-example evaluation dataset.
-
-The model's variable importance output highlighted:
-
-- OverallQual
-- GarageCars
-- GrLivArea
-- ExterQual
-- 1stFlrSF
-- FullBath
-- GarageArea
-
-among the more influential variables.
-
-## Skills Learned / Reinforced
-
-- High-dimensional data handling
-- Missing-value treatment
-- Categorical encoding
-- Pipelines
-- ColumnTransformer
-- Random Forest
-- XGBoost
-- TensorFlow Decision Forests
-- Cross-validation
-- GridSearchCV
-- Feature importance
-- RMSE
-- R²
-- Ensemble modelling
-
-## Professional Relevance
-
-This was particularly relevant to my professional exposure to real estate and property-related business processes.
-
-It demonstrated how a traditional business problem can be translated into a predictive analytics problem.
-
----
+This project connected a property-pricing problem with practical analytics work: inspect the source data, make explicit assumptions about missing values, validate a model, and compare its predictions with a defined performance measure.
 
 # 8. Leaf Classification
 
