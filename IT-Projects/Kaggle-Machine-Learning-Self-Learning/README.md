@@ -18,7 +18,7 @@ I have participated in nine Kaggle competitions/projects.
 
 | # | Competition | Kaggle result/status shown in my workspace | Main area |
 |---|---|---:|---|
-| 1 | **Russian Car Plates Prices Prediction** | **644 / 694** | Regression & feature engineering |
+| 1 | **Russian Car Plates Prices Prediction** | **Personal best: 38.0242** (latest captured submission) | Regression / CatBoost |
 | 2 | **Backpack Prediction Challenge** | **3,216 / 3,393** | Regression / predictive modelling |
 | 3 | **Regression with an Insurance Dataset** | Unranked / 2,350 | Regression |
 | 4 | **Binary Prediction of Poisonous Mushrooms** | **2,070 / 2,422** | Binary classification |
@@ -46,134 +46,48 @@ I have therefore deliberately **not invented technologies or algorithms for thos
 
 # 1. Russian Car Plates Prices Prediction
 
-## Problem
+## Project result
 
-The project involved predicting the price of Russian vehicle registration plates.
+**Latest captured Kaggle score: 38.0242**, improving on the previous best of 92.7677. Lower SMAPE is better.
 
-The surviving notebook shows several iterations of the modelling approach, progressing from a relatively simple regression model to more extensive feature engineering and model comparison.
+![Kaggle leaderboard screenshot showing the Russian Car Plates submission score of 38.0242](./russian-car-plates-best-score.png)
 
-## Data Preparation
+- [Open the Jupyter notebook](./russian-car-plates-prices-prediction.ipynb)
+- [Open the Kaggle competition](https://www.kaggle.com/competitions/russian-car-plates-prices-prediction/)
 
-The code included:
+## Problem and data
 
-- Reading training and test data from Google Drive
-- Converting dates to datetime
-- Exploratory analysis
-- Missing-data checks
-- Examination of price distribution and skewness
-- Correlation analysis
+The objective was to predict the market price of Russian vehicle registration plates. The Kaggle data contained 51,635 training rows and 7,695 test rows. The source columns were `id`, `plate`, `date`, and `price`; the test file's `price` values were blank. The sample submission required `id` and `price`.
 
-The target variable was `price`.
+## Data preparation and feature engineering
 
-## Feature Engineering
+The notebook checked missing values and duplicate rows, parsed listing dates, and examined price distribution and repeated plates. It created features for:
 
-Several features were created from the available data.
+- Plate characters: full plate, first letter, three digits, middle letters and region code
+- Plate patterns: repeated digits, all-identical digits, palindromic digits and matching middle letters
+- Listing date: year, month, day, weekday, hour and days since the data period began
 
-### Date features
+The target distribution was highly skewed, so the project also inspected price percentiles and plate frequency before modelling.
 
-- Year
-- Month
-- Day
-- Day of week
-- Weekend indicator
-- Quarter
-- Day of year
-- Week of year
+## Model and evaluation
 
-### Cyclical features
+The notebook used CatBoost with a 20% random validation split, `MAE` training loss and `SMAPE` evaluation. Early stopping was enabled across a maximum of 1,500 iterations. The validation SMAPE was **37.922** at iteration 1,498. The final model was retrained on all training rows and produced the captured Kaggle score of **38.0242**.
 
-The code experimented with:
+The score is recorded from the Kaggle screenshot included above; leaderboard results can change over time.
 
-- Month sine/cosine
-- Day sine/cosine
-- Day-of-week sine/cosine
+## Skills learned / reinforced
 
-This is a useful machine-learning technique for representing cyclical variables such as months and weekdays.
+- Regression with categorical and structured text features
+- Plate-pattern feature engineering
+- Date and time feature extraction
+- Handling highly skewed price data
+- CatBoost and early stopping
+- Validation using SMAPE
+- Kaggle prediction-file generation
 
-### Plate characteristics
+## Key learning
 
-The code extracted:
-
-- First character of the plate
-- Whether the plate contained numbers
-- Plate length
-- Encoded plate value
-
-### Aggregate features
-
-The notebook also created price statistics by:
-
-- Plate first character
-- Month
-
-including:
-
-- Mean
-- Median
-- Standard deviation
-- Minimum
-- Maximum
-
-Interaction features such as `month_day` and `month_dow` were also explored.
-
-## Models Tested
-
-The code tested:
-
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- Random Forest
-- Gradient Boosting
-- Decision Tree
-- XGBoost in later iterations
-
-The more advanced notebook also used:
-
-- Cross-validation
-- GridSearchCV
-- Feature selection using F-scores
-- Stacking concepts
-- RMSE
-- MAE
-- R²
-
-## Results Observed in the Notebook
-
-In the initial model comparison:
-
-- Linear Regression: R² approximately **0.004**
-- Ridge Regression: R² approximately **0.004**
-- Lasso Regression: R² approximately **0.004**
-- Random Forest: R² approximately **-0.042**
-- Gradient Boosting: R² approximately **0.027**
-- Decision Tree: R² approximately **-0.749**
-
-Gradient Boosting was therefore selected in that iteration.
-
-A later feature-engineered iteration improved the validation R² to approximately **0.047**, again selecting Gradient Boosting.
-
-The Kaggle workspace shows a final competition position of **644 / 694**.
-
-## Skills Learned / Reinforced
-
-- Regression modelling
-- Feature engineering
-- Date/time feature extraction
-- Cyclical encoding
-- Categorical encoding
-- Model comparison
-- Cross-validation
-- Hyperparameter tuning
-- Feature selection
-- Understanding RMSE, MAE and R²
-- Understanding that sophisticated models do not automatically produce strong predictive results
-
-## Key Learning
-
-This was particularly useful in reinforcing the importance of **feature engineering and data understanding**. The initial model results were weak, and experimentation showed that simply changing algorithms was less important than understanding what information could actually explain the target variable.
-
----
+Plate prices depend on distinctive letter and number patterns as well as listing context. This project reinforced the value of understanding the domain and turning meaningful patterns into explicit features before comparing model results.
 
 # 2. Backpack Prediction Challenge
 
